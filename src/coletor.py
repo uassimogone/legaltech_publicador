@@ -3,21 +3,24 @@ import json
 import asyncio
 from pathlib import Path
 from telethon import TelegramClient
+from telethon.sessions import StringSession
 from telethon.tl.types import MessageMediaPhoto
 
-# Aqui só puxamos as chaves da API (sem o BOT_TOKEN)
+# Pegando chaves do cofre
 API_ID = int(os.environ["TELEGRAM_API_ID"])
 API_HASH = os.environ["TELEGRAM_API_HASH"]
 CHAT_ID = int(os.environ["TELEGRAM_CHAT_ID"])
+STRING_SESSION = os.environ["TELEGRAM_STRING_SESSION"]
 
 DB_DIR = Path("database")
 DB_DIR.mkdir(exist_ok=True)
 DATA_FILE = DB_DIR / "posts_do_dia.json"
 
 async def coletar_posts():
-    print("Iniciando coleta no Telegram via User Session...")
-    # Usando o arquivo de sessão descompactado
-    async with TelegramClient('telegram_session', API_ID, API_HASH) as client:
+    print("Iniciando coleta no Telegram via StringSession...")
+    
+    # Login perfeito sem arquivos físicos, direto pela nuvem
+    async with TelegramClient(StringSession(STRING_SESSION), API_ID, API_HASH) as client:
         mensagens = []
         async for msg in client.iter_messages(CHAT_ID, limit=30):
             mensagens.append(msg)
