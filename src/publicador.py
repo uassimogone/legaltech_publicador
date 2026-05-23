@@ -44,8 +44,13 @@ def publicar_meta(image_url, caption):
     print(" -> [Etapa 2] Iniciando injeção na Graph API da Meta...")
     base_url = "https://graph.instagram.com/v20.0"
     
-    # Criar Container
-    resp = requests.post(f"{base_url}/{IG_USER_ID}/media", params={"image_url": image_url, "caption": caption, "access_token": IG_TOKEN}, timeout=30)
+    # Criar Container (Correção de arquitetura: auth na URL, payload no Body)
+    resp = requests.post(
+        f"{base_url}/{IG_USER_ID}/media", 
+        params={"access_token": IG_TOKEN}, 
+        data={"image_url": image_url, "caption": caption},
+        timeout=30
+    )
     res_json = resp.json()
     container_id = res_json.get("id")
     
@@ -71,8 +76,19 @@ def publicar_meta(image_url, caption):
     if not sucesso_renderizacao:
         raise Exception("Timeout: A Meta demorou mais de 2 minutos para processar a foto e o sistema abortou.")
         
-    # Publicar no Feed
+    # Publicar no Feed (Correção de arquitetura: auth na URL, payload no Body)
     print(" -> [Etapa 3] Container pronto. Disparando para o Feed do Instagram...")
+    pub_resp = requests.post(
+        f"{base_url}/{IG_USER_ID}/media_publish", 
+        params={"access_token": IG_TOKEN}, 
+        data={"creation_id": container_id},
+        timeout=30
+    )
+    
+    if pub_resp.status_code != 200:
+        raise Exception(f"Erro na publicação final (Feed): {pub_resp.text[:200]}")
+        
+    print(" -> [Etapa 3 OK] Post publicado no feed!") 
     pub_resp = requests.post(f"{base_url}/{IG_USER_ID}/media_publish", params={"creation_id": container_id, "access_token": IG_TOKEN}, timeout=30)
     
     if pub_resp.status_code != 200:
