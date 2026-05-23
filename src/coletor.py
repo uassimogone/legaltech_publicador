@@ -6,10 +6,10 @@ from telethon import TelegramClient
 from telethon.sessions import StringSession
 from telethon.tl.types import MessageMediaPhoto
 
-# Pegando chaves do cofre
+# Pegando chaves do cofre (Ajustado para o nome correto)
 API_ID = int(os.environ["TELEGRAM_API_ID"])
 API_HASH = os.environ["TELEGRAM_API_HASH"]
-STRING_SESSION = os.environ["TELEGRAM_STRING_STRING_SESSION"]
+STRING_SESSION = os.environ["TELEGRAM_STRING_SESSION"]
 
 # ID do chat onde os posts estão
 CHAT_ID_CONTEUDO = 8553173816
@@ -22,7 +22,7 @@ async def coletar_posts():
     print(f"Iniciando coleta no Telegram (Chat Alvo: {CHAT_ID_CONTEUDO})...")
     
     async with TelegramClient(StringSession(STRING_SESSION), API_ID, API_HASH) as client:
-        # GARANTIA DE ENTIDADE: Isso força o Telethon a encontrar o chat
+        # Garantia de entidade para o chat do bot
         entity = await client.get_input_entity(CHAT_ID_CONTEUDO)
         
         mensagens = []
