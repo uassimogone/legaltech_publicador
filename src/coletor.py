@@ -22,12 +22,12 @@ async def coletar_posts():
     print(f"Iniciando coleta no Telegram (Chat Alvo: {CHAT_ID_CONTEUDO})...")
     
     async with TelegramClient(StringSession(STRING_SESSION), API_ID, API_HASH) as client:
-        # Garantia de entidade para o chat do bot
-        entity = await client.get_input_entity(CHAT_ID_CONTEUDO)
-        
-        mensagens = []
-        async for msg in client.iter_messages(entity, limit=30):
-            mensagens.append(msg)
+    # Em vez de tentar resolver o ID diretamente, iteramos no diálogo
+    chat = await client.get_entity(CHAT_ID_CONTEUDO)
+    
+    mensagens = []
+    async for msg in client.iter_messages(chat, limit=30):
+        mensagens.append(msg)
         
         mensagens.reverse()
         pares = []
