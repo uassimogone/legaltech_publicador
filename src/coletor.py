@@ -22,7 +22,12 @@ async def coletar_posts():
     print(f"Iniciando coleta no Telegram (Chat Alvo: {CHAT_ID_CONTEUDO})...")
     
     async with TelegramClient(StringSession(STRING_SESSION), API_ID, API_HASH) as client:
-        # A indentação aqui é crucial para o bloco 'async with'
+        
+        print("Atualizando a lista de diálogos para o Telethon reconhecer o ID...")
+        # A PEÇA QUE FALTAVA: Isso cura a "amnésia" da StringSession
+        await client.get_dialogs()
+        
+        print("Buscando o chat alvo...")
         chat = await client.get_entity(CHAT_ID_CONTEUDO)
         
         mensagens = []
