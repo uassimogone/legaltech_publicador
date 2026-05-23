@@ -6,7 +6,7 @@ from telethon import TelegramClient
 from telethon.sessions import StringSession
 from telethon.tl.types import MessageMediaPhoto
 
-# Pegando chaves do cofre (Ajustado para o nome correto)
+# Pegando chaves do cofre
 API_ID = int(os.environ["TELEGRAM_API_ID"])
 API_HASH = os.environ["TELEGRAM_API_HASH"]
 STRING_SESSION = os.environ["TELEGRAM_STRING_SESSION"]
@@ -22,12 +22,12 @@ async def coletar_posts():
     print(f"Iniciando coleta no Telegram (Chat Alvo: {CHAT_ID_CONTEUDO})...")
     
     async with TelegramClient(StringSession(STRING_SESSION), API_ID, API_HASH) as client:
-    # Em vez de tentar resolver o ID diretamente, iteramos no diálogo
-    chat = await client.get_entity(CHAT_ID_CONTEUDO)
-    
-    mensagens = []
-    async for msg in client.iter_messages(chat, limit=30):
-        mensagens.append(msg)
+        # A indentação aqui é crucial para o bloco 'async with'
+        chat = await client.get_entity(CHAT_ID_CONTEUDO)
+        
+        mensagens = []
+        async for msg in client.iter_messages(chat, limit=30):
+            mensagens.append(msg)
         
         mensagens.reverse()
         pares = []
