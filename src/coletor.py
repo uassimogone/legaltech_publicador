@@ -8,7 +8,7 @@ from telethon.tl.types import MessageMediaPhoto
 
 # Pegando chaves do cofre
 API_ID = int(os.environ["TELEGRAM_API_ID"])
-API_HASH = os.environ["TELEGRAM_API_HASH"])
+API_HASH = os.environ["TELEGRAM_API_HASH"]
 STRING_SESSION = os.environ["TELEGRAM_STRING_SESSION"]
 
 # CORREÇÃO DE ARQUITETURA:
