@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": 1,
+      "imagem": "slide_01.png",
+      "legenda": "Chega de alucinações em fatos jurídicos. A OAB deu o sinal verde para o uso de IA Generativa na criação de petições iniciais, mas com regras claras. Isso significa mais agilidade para você, com a segurança jurídica que o caso exige. Prepare-se para otimizar seu tempo e focar no que realmente importa: a estratégia do seu cliente.\n\nA regulamentação busca justamente evitar que a tecnologia crie informações falsas ou distorcidas, garantindo que as petições sejam precisas e confiáveis. É um passo fundamental para a adoção responsável da IA no dia a dia do advogado, abrindo portas para inovações sem comprometer a qualidade do serviço prestado.\n\nAgora, você pode usar a IA como sua aliada na elaboração de documentos, mas sempre com o olhar crítico e a expertise que só um profissional qualificado possui. A tecnologia é uma ferramenta poderosa, e saber usá-la de forma ética e eficiente é o diferencial.\n\nUse a IA para acelerar a confecção de minutas e revisões, mas sempre valide as informações geradas. A inteligência artificial é um copiloto, não o piloto automático. Sua expertise continua sendo o fator decisivo.\n\nFonte: https://www.jota.info/tecnologia/oab-regulamenta-ia-peticoes-2026\n\n#LegalTech #IAJurídica #lawtech #artificiallawyer #OAB #PetiçõesIniciais",
+      "publicado": false
+    },
+    {
+      "id": 2,
+      "imagem": "slide_02.png",
+      "legenda": "Imagine reduzir em 4x o tempo gasto na elaboração de contestações trabalhistas. Com o Claude 3.5 Sonnet, isso não é mais ficção. O segredo? Um prompt inteligente que isola a causa de pedir, entregando estruturas prontas em minutos.\n\nEssa performance impressionante demonstra o poder das IAs generativas quando bem direcionadas. Ao focar no cerne da questão, a IA consegue entregar resultados mais precisos e rápidos, liberando seu tempo para análise estratégica e aprofundamento jurídico.\n\nPara você, advogado, isso significa mais eficiência e a capacidade de atender a um volume maior de casos sem sacrificar a qualidade. A tecnologia está aqui para potencializar sua prática, não para substituí-la. Domine a arte do prompt e veja a diferença.\n\nExperimente prompts que detalhem a estrutura argumentativa e os pontos cruciais da causa. A IA fará o trabalho pesado, mas a sua inteligência jurídica guiará o processo.\n\nFonte: https://danilogato.com.br/prompts-trabalhistas-ia\n\n#LegalTech #IAJurídica #lawtech #artificiallawyer #ClaudeAI #DireitoTrabalhista",
+      "publicado": false
+    },
+    {
+      "id": 3,
+      "imagem": "slide_03.png",
+      "legenda": "Varredura diária no Diário Oficial agora gera insights preditivos de perdas e danos? Sim, e com uma nova extensão de agente autônomo focada nisso. Esqueça a leitura manual e demorada; a tecnologia te entrega o que importa.\n\nEssa inovação promete revolucionar a forma como escritórios acompanham publicações. Ao identificar padrões e prever potenciais riscos ou oportunidades, você ganha uma vantagem competitiva enorme, antecipando-se a decisões e minimizando exposições.\n\nPara o advogado, isso se traduz em economia de tempo precioso e na capacidade de oferecer um serviço mais proativo e estratégico aos clientes. A inteligência artificial, neste caso, atua como um radar, alertando sobre o que está por vir.\n\nInvista em ferramentas que automatizem a leitura e análise de publicações oficiais. A capacidade de prever cenários e agir com antecedência é um diferencial imbatível.\n\nFonte: https://youtube.com/@GabrielAdamuchi/agentes-diario-oficial\n\n#LegalTech #IAJurídica #lawtech #artificiallawyer #DiarioOficial #AgentesAutonomos",
+      "publicado": false
+    }
+  ]
 }
