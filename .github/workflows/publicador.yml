@@ -1,9 +1,12 @@
 name: 2 - Publicador (08h, 12h, 18h BRT)
 on:
   schedule:
-    - cron: '00 11 * * *'
-    - cron: '00 15 * * *'
-    - cron: '00 21 * * *'
+    # 07:45 BRT = 10:45 UTC
+    - cron: '45 10 * * *'
+    # 11:45 BRT = 14:45 UTC
+    - cron: '45 14 * * *'
+    # 17:45 BRT = 20:45 UTC
+    - cron: '45 20 * * *'
   workflow_dispatch:
 jobs:
   run-publicador:
