@@ -1,7 +1,8 @@
 name: 1 - Coletor (07:15 BRT)
 on:
   schedule:
-    - cron: '15 10 * * *'
+    # Dispara apenas uma vez por dia, às 05:50 BRT (08:50 UTC)
+    - cron: '50 08 * * *'
   workflow_dispatch:
 jobs:
   run-coletor:
