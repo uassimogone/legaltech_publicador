@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "A OpenAI democratiza o acesso à IA avançada com o lançamento do gpt-oss-20b, um LLM de código aberto com aproximadamente 21 bilhões de parâmetros, projetado para rodar localmente em dispositivos com apenas 16 GB de VRAM. Sua arquitetura MoE e quantização MXFP4 garantem eficiência sem precedíentes.\n\nEste modelo não é apenas leve, mas também poderoso, igualando-se a modelos de ponta em tarefas de raciocínio, matemática e saúde. A capacidade de suportar Chain-of-Thought e o uso de ferramentas, com implantação facilitada por frameworks como Ollama, abre portas para o desenvolvimento de aplicações de IA mais privadas, seguras e acessíveis.\n\nPara o universo corporativo e jurídico, a execução local de LLMs como o gpt-oss-20b representa um salto em termos de controle de dados e personalização. A capacidade de integrar IA de forma nativa e segura em fluxos de trabalho internos sem depender de nuvens externas é um divisor de águas para a eficiência e a conformidade.\n\nO poder da IA agora está ao seu alcance, localmente. Você está pronto para inovar?\n\nFonte: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSR3gB9zyQjqT5Ver0lZEj2rLlWgarxcAWyWSGGGRPcTwe5IfwyAbyNclQ6STebBItDWPFSSq0uA8UNvMAYhbXTcizzUTYWzebKv5hOIBU0KshxGoVGimtgCayo9Tn5wNB5jo4l2cMmKIRfmM5pVOi9k1bnP7164-BQYnOUwXiFdhH0CH7axc=\n#LegalTech #IAJurídica #lawtech #artificiallawyer #OpenAI #LLM",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
