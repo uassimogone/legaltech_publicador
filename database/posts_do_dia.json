@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "O Google DeepMind acaba de desferir um golpe de mestre com o lançamento do \"Aura\", um framework que redefine a autonomia de agentes de IA. Imagine sistemas capazes de aprender, adaptar-se e manter um contexto de longo prazo, superando as limitações de esquecimento que assolam a IA atual. O Aura integra percepção, planejamento e ação com uma memória hierárquica, permitindo que os agentes naveguem em ambientes complexos com uma compreensão contínua e coesa de seus objetivos.\n\nA engenharia por trás do Aura é um espetáculo de tecnologia: LLMs para raciocínio avançado, redes neurais para processamento multimodal (texto, imagem, áudio) e sistemas de recuperação de informação para gerenciar essa memória expansiva. O resultado são agentes mais robustos, capazes de lidar com tarefas de longa duração e interações dinâmicas, abrindo portas para aplicações que antes eram ficção científica.\n\nPara o mercado corporativo e jurídico de alta performance, isso significa a iminência de automações que vão muito além do que conhecemos. A capacidade de manter contexto e aprender continuamente prepara o terreno para assistentes virtuais mais sofisticados, sistemas de análise preditiva com memória histórica e operações autônomas em larga escala. Ignorar essa evolução é arriscar a obsolescência em um futuro onde a inteligência artificial não apenas executa, mas lembra e evolui.\n\nO futuro da autonomia inteligente já começou. Você está pronto para acompanhar?",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
