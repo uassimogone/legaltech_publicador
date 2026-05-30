@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "A OpenAI acaba de dar um salto quântico na evolução da IA com o anúncio do \"Quantum\", um modelo generativo projetado para um dos domínios mais complexos da computação: o hardware quântico. Este lançamento é um marco na democratização do acesso à programação quântica, traduzindo a complexidade de problemas em algoritmos eficientes e otimizando circuitos para arquiteturas quânticas diversas.\n\nO poder do Quantum reside em sua capacidade de processar e gerar código quântico com uma precisão sem precedentes. Utilizando LLMs treinados em vastos datasets de código quântico e física teórica, juntamente com algoritmos de otimização e aprendizado por reforço, a OpenAI está acelerando a pesquisa em descoberta de materiais, farmacologia e criptografia. A promessa é de vantagens exponenciais em campos que antes eram limitados pela capacidade computacional.\n\nPara o ecossistema corporativo e jurídico que busca inovação disruptiva, o \"Quantum\" da OpenAI sinaliza a próxima fronteira da computação de alto desempenho. A capacidade de simular e otimizar processos complexos em nível quântico pode, em breve, impactar desde a modelagem financeira até a análise de riscos em cenários de alta complexidade. Preparar-se para essa onda tecnológica não é apenas uma questão de eficiência, mas de garantir uma vantagem competitiva em um futuro moldado pela computação de ponta.\n\nO código do futuro está sendo escrito agora, em qubits. Você está preparado para decifrá-lo?",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
