@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "A Nvidia está redefinindo o conceito de PC com o lançamento do superchip RTX Spark, integrando IA avançada e a capacidade de rodar agentes autônomos localmente. Essa inovação promete transformar computadores pessoais em 'supercomputadores de IA', operando sem dependência exclusiva da nuvem. A democratização do poder computacional para IA agêntica está a um passo de se tornar realidade.\n\nO RTX Spark combina CPU e GPU em uma arquitetura unificada, permitindo que modelos de IA complexos sejam executados diretamente no dispositivo. Isso significa processamento mais rápido, maior segurança de dados e a possibilidade de agentes autônomos operarem em tempo real, sem latência. A parceria com Microsoft e Dell aponta para uma nova era de computação pessoal, focada na criação e na inteligência artificial.\n\nPara o ecossistema corporativo e legal, a implicação é clara: a capacidade de rodar ferramentas de IA e agentes autônomos diretamente em estações de trabalho individuais abre portas para fluxos de trabalho mais eficientes e seguros. A descentralização do poder de IA pode significar maior agilidade e menor custo operacional, além de garantir que dados sensíveis permaneçam protegidos localmente.\n\nSeu PC está prestes a se tornar um centro de inteligência autônoma. Você está preparado para essa atualização?",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
