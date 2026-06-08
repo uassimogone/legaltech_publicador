@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "A Meta AI está redefinindo a criação de conteúdo com o lançamento do 'Echo', um modelo de IA generativa capaz de produzir conteúdo imersivo 3D em tempo real. Este avanço tecnológico permite que usuários e desenvolvedores transformem descrições textuais ou esboços simples em ambientes, objetos e personagens 3D complexos, com renderização quase instantânea. O 'Echo' democratiza a criação de ativos 3D de alta qualidade, reduzindo drasticamente o tempo e a expertise técnica necessários.\n\nO impacto do 'Echo' reside na sua capacidade de gerar e manipular ativos 3D de forma dinâmica e quase instantânea. Utilizando técnicas avançadas como GANs ou modelos de difusão, combinadas com LLMs para interpretação de prompts e renderização neural em tempo real, o modelo oferece uma experiência de criação fluida e poderosa. A velocidade e a qualidade da geração 3D em tempo real são um salto disruptivo para aplicações em metaversos, jogos e realidade virtual/aumentada.\n\nPara o ecossistema corporativo e legal, a capacidade de criar e visualizar cenários complexos em 3D em tempo real abre novas avenidas para apresentações, simulações e até mesmo para a representação de dados complexos. A agilidade na criação de ambientes imersivos pode transformar a forma como interagimos com informações e como apresentamos soluções, tornando a adaptação a essas ferramentas uma vantagem competitiva.\n\nO futuro é imersivo e está sendo gerado em tempo real. Você está pronto para entrar nesse novo universo?",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
