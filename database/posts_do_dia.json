@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "O Google DeepMind acaba de apresentar o 'Synapse', um sistema de IA que não apenas escreve código, mas o faz de forma autônoma e otimizada, prometendo uma disrupção massiva no desenvolvimento de software. Este sistema transcende as ferramentas de codificação assistida, sendo capaz de interpretar requisitos de alto nível, arquitetar soluções complexas e gerar código em diversas linguagens, com um diferencial crucial: a otimização automática para performance e eficiência.\n\nO 'Synapse' emprega aprendizado por reforço para refinar continuamente o código gerado, aprendendo com os resultados da execução e adaptando-se para entregar soluções mais robustas e eficientes. Isso significa que o código não é apenas funcional, mas também otimizado em termos de velocidade e consumo de recursos, estabelecendo um novo benchmark para a automação no ciclo de desenvolvimento de software.\n\nPara escritórios de advocacia e departamentos jurídicos que buscam escalar suas operações e otimizar seus fluxos de trabalho, a capacidade de gerar e otimizar software de forma autônoma é um divisor de águas. A automação extrema na criação de ferramentas customizadas ou na otimização de sistemas existentes pode liberar recursos valiosos e acelerar a inovação interna, tornando a adaptação a essas novas tecnologias um imperativo estratégico.\n\nSerá que o futuro do desenvolvimento de software será inteiramente autônomo? O Synapse nos dá um vislumbre poderoso.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
