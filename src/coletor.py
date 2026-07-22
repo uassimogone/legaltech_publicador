@@ -11,8 +11,8 @@ API_ID = int(os.environ["TELEGRAM_API_ID"])
 API_HASH = os.environ["TELEGRAM_API_HASH"]
 STRING_SESSION = os.environ["TELEGRAM_STRING_SESSION"]
 
-# ID do chat onde os posts estão
-CHAT_ID_CONTEUDO = 8553173816
+# ID do chat onde os posts estão (configurável via ambiente, com fallback)
+CHAT_ID_CONTEUDO = int(os.environ.get("TELEGRAM_CONTENT_CHAT_ID", "8553173816"))
 
 DB_DIR = Path("database")
 DB_DIR.mkdir(exist_ok=True)
