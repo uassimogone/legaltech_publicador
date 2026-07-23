@@ -76,24 +76,18 @@ def publicar_meta(image_url, caption):
     if not sucesso_renderizacao:
         raise Exception("Timeout: A Meta demorou mais de 2 minutos para processar a foto e o sistema abortou.")
         
-    # Publicar no Feed (Correção de arquitetura: auth na URL, payload no Body)
+    # Publicar no Feed (auth na URL, payload no Body)
     print(" -> [Etapa 3] Container pronto. Disparando para o Feed do Instagram...")
     pub_resp = requests.post(
-        f"{base_url}/{IG_USER_ID}/media_publish", 
-        params={"access_token": IG_TOKEN}, 
+        f"{base_url}/{IG_USER_ID}/media_publish",
+        params={"access_token": IG_TOKEN},
         data={"creation_id": container_id},
         timeout=30
     )
-    
+
     if pub_resp.status_code != 200:
         raise Exception(f"Erro na publicação final (Feed): {pub_resp.text[:200]}")
-        
-    print(" -> [Etapa 3 OK] Post publicado no feed!") 
-    pub_resp = requests.post(f"{base_url}/{IG_USER_ID}/media_publish", params={"creation_id": container_id, "access_token": IG_TOKEN}, timeout=30)
-    
-    if pub_resp.status_code != 200:
-        raise Exception(f"Erro na publicação final (Feed): {pub_resp.text[:200]}")
-        
+
     print(" -> [Etapa 3 OK] Post publicado no feed!")
 
 def rodar_fila():
