@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI redefine o paradigma da produtividade com o lançamento do ChatGPT Work, um agente autônomo que transcende a mera geração de texto para a execução de tarefas complexas. Integrando a poderosa tecnologia Codex, esta nova ferramenta é capaz de interagir com múltiplos aplicativos e fluxos de trabalho, orquestrando a criação de planilhas, apresentações, documentos e até mesmo aplicativos web. O ChatGPT Work não apenas responde a comandos, mas atua como um executor digital, prometendo uma revolução na forma como interagimos com a tecnologia para atingir objetivos práticos e escaláveis. A capacidade de coletar informações e sintetizá-las em entregas tangíveis marca um salto quântico na automação de processos corporativos e na aceleração da inovação.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
