@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "O ecossistema de IA de código aberto acaba de receber um upgrade massivo com o lançamento do Kimi K3 pela Moonshot. Este novo modelo se posiciona como um dos mais avançados globalmente, demonstrando performance de elite em benchmarks como a Code Arena, onde alcançou o 1º lugar em codificação e 3º em avaliação geral. Paralelamente, a Moonshot lança o AgentEnv, um ambiente sandbox robusto em parceria com a KVCache.ai, projetado para o pós-treinamento e a execução em larga escala de agentes autônomos. Essa sinergia entre um modelo de ponta e uma infraestrutura de suporte dedicada abre portas para experimentação e desenvolvimento acelerado de sistemas de IA cada vez mais capazes e autônomos, impulsionando a inovação em diversas indústrias.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
