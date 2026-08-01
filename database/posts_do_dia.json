@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A Microsoft está redefinindo o campo de batalha digital com o Project Perception, um sistema de cibersegurança de ponta que emprega agentes de IA semi-autônomos. A solução, que entra em testes públicos em 3 de agosto, utiliza agentes de proteção definidos por cores para defender infraestruturas de forma proativa. Com o modelo MAI-Cyber-1-Flash, a Microsoft promete condensar semanas de trabalho em horas, otimizando a gestão de vulnerabilidades e entregando desempenho líder mundial a um custo drasticamente reduzido. Prepare-se para uma nova era de defesa digital onde a velocidade e a inteligência artificial são os pilares.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
