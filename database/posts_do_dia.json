@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "A OpenAI está democratizando o acesso à inteligência artificial de ponta com cortes significativos nos preços da família GPT-5.6, especialmente a variante Luna, que agora tem uma redução de 80% no custo de API. Paralelamente, a empresa aprimora a velocidade de inferência, otimizando o custo por tarefa em workloads comuns. A pesquisa da OpenAI demonstra que modelos como o Sol já estão impulsionando a eficiência no código de GPU, reduzindo custos operacionais e acelerando a inovação. Uma nova onda de acessibilidade e performance está a caminho.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
