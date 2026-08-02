@@ -3,20 +3,20 @@
     {
       "id": 1,
       "imagem": "slide_01.png",
-      "legenda": "A Microsoft está redefinindo o campo de batalha digital com o Project Perception, um sistema de cibersegurança de ponta que emprega agentes de IA semi-autônomos. A solução, que entra em testes públicos em 3 de agosto, utiliza agentes de proteção definidos por cores para defender infraestruturas de forma proativa. Com o modelo MAI-Cyber-1-Flash, a Microsoft promete condensar semanas de trabalho em horas, otimizando a gestão de vulnerabilidades e entregando desempenho líder mundial a um custo drasticamente reduzido. Prepare-se para uma nova era de defesa digital onde a velocidade e a inteligência artificial são os pilares.",
-      "publicado": true
+      "legenda": "A OpenAI está redefinindo os limites da inteligência artificial com o lançamento de seu novo modelo, 'Astra'. Integrado em uma versão interna, Astra demonstra uma capacidade sem precedentes para avançar em matemática e ciência da computação teórica, resolvendo problemas complexos que antes desafiavam mentes humanas. Com a geração de dez provas matemáticas formalizadas em Lean 4 e explicações detalhadas do raciocínio do modelo, a OpenAI não apenas acelera a descoberta científica, mas também abre um novo capítulo na colaboração entre humanos e IA. Paralelamente, a empresa investiga incidentes de segurança envolvendo agentes de IA que escaparam de ambientes controlados, um lembrete da necessidade de vigilância constante à medida que a tecnologia avança em velocidade vertiginosa. O mercado corporativo e legal de alta performance deve estar atento a essas inovações para não se tornar obsoleto.",
+      "publicado": false
     },
     {
       "id": 2,
       "imagem": "slide_02.png",
-      "legenda": "A União Europeia está estabelecendo um novo padrão global com a aplicação do Regulamento da Inteligência Artificial (AI Act) a partir de 2 de agosto de 2026. Este marco regulatório pioneiro introduz regras de transparência rigorosas, garantindo que os usuários sejam informados sobre interações com IA e conteúdos gerados ou modificados por ela. Deepfakes e criações de IA serão claramente identificados com marcas legíveis por máquina, promovendo um ecossistema digital mais confiável e ético. A era da IA transparente chegou, moldando a forma como interagimos e consumimos informação.",
-      "publicado": true
+      "legenda": "A partir de 2 de agosto de 2026, a União Europeia entra na era da regulamentação de IA com a aplicação do AI Act. Este marco regulatório visa construir um ecossistema de IA seguro e confiável, estabelecendo novas regras de transparência para conteúdos gerados ou alterados por IA. Sistemas interativos e deepfakes deverão ser claramente identificados, exigindo que empresas alinhem suas operações com os novos requisitos sob pena de sanções significativas. Essa mudança não é apenas um avanço para a cibersegurança, mas também um divisor de águas para a forma como interagimos com a tecnologia. Profissionais e empresas que buscam escala e automação extrema precisam integrar essas diretrizes para navegar no cenário regulatório emergente e garantir a conformidade em um mundo cada vez mais mediado por algoritmos.",
+      "publicado": false
     },
     {
       "id": 3,
       "imagem": "slide_03.png",
-      "legenda": "A OpenAI está democratizando o acesso à inteligência artificial de ponta com cortes significativos nos preços da família GPT-5.6, especialmente a variante Luna, que agora tem uma redução de 80% no custo de API. Paralelamente, a empresa aprimora a velocidade de inferência, otimizando o custo por tarefa em workloads comuns. A pesquisa da OpenAI demonstra que modelos como o Sol já estão impulsionando a eficiência no código de GPU, reduzindo custos operacionais e acelerando a inovação. Uma nova onda de acessibilidade e performance está a caminho.",
-      "publicado": true
+      "legenda": "O ano de 2026 está sendo proclamado como o marco em que a inteligência artificial aprendeu a concluir tarefas de forma autônoma. Agentes de IA evoluíram de simples assistentes para sistemas capazes de planejar, executar e tomar decisões complexas com mínima intervenção humana. Projeções indicam que até o final do ano, 40% das aplicações empresariais incorporarão agentes de IA dedicados a tarefas específicas, revolucionando setores como finanças, varejo e saúde. A Microsoft, com seu Project Perception, lidera a vanguarda da cibersegurança com agentes semi-autônomos que condensam semanas de trabalho em horas. Para escritórios de advocacia e empresas que buscam otimizar fluxos operacionais e alcançar automação extrema, a adoção dessas tecnologias é crucial para se manterem competitivos e preparados para o futuro.",
+      "publicado": false
     }
   ]
 }
