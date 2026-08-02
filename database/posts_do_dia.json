@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "A partir de 2 de agosto de 2026, a União Europeia entra na era da regulamentação de IA com a aplicação do AI Act. Este marco regulatório visa construir um ecossistema de IA seguro e confiável, estabelecendo novas regras de transparência para conteúdos gerados ou alterados por IA. Sistemas interativos e deepfakes deverão ser claramente identificados, exigindo que empresas alinhem suas operações com os novos requisitos sob pena de sanções significativas. Essa mudança não é apenas um avanço para a cibersegurança, mas também um divisor de águas para a forma como interagimos com a tecnologia. Profissionais e empresas que buscam escala e automação extrema precisam integrar essas diretrizes para navegar no cenário regulatório emergente e garantir a conformidade em um mundo cada vez mais mediado por algoritmos.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
