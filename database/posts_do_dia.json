@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": 1,
+      "imagem": "slide_01.png",
+      "legenda": "A OpenAI acaba de redefinir os limites da computação com o anúncio do 'Astra', um modelo de IA que não apenas resolve dez problemas matemáticos historicamente intratáveis, mas o faz com provas verificáveis em Lean. Este avanço, que sugere uma evolução do GPT-5.6, aponta para 'trabalhos de longa duração' e uma capacidade sem precedentes de raciocínio e validação. A integração de Astra com outras ferramentas avançadas da OpenAI, como o GPT-5.6 Sol, em cenários de cibersegurança, demonstra uma arquitetura de IA cada vez mais robusta e multifacetada. O mercado corporativo e legal de alta performance deve se preparar para uma nova era de automação e resolução de problemas complexos.",
+      "publicado": false
+    },
+    {
+      "id": 2,
+      "imagem": "slide_02.png",
+      "legenda": "A IA chinesa está acelerando seu passo global. O modelo Kimi K3 da Moonshot AI, com impressionantes 2,4 trilhões de parâmetros, está ganhando terreno nos EUA, impulsionado pela ascensão dos agentes de IA. Esses sistemas autônomos são capazes de encadear operações complexas, executando projetos de longa duração em programação e colaboração. Essa disrupção tecnológica exige que as empresas de ponta, incluindo as do setor jurídico e financeiro, reavaliem suas estratégias de automação e eficiência para não ficarem para trás na corrida pela inteligência artificial aplicada.",
+      "publicado": false
+    },
+    {
+      "id": 3,
+      "imagem": "slide_03.png",
+      "legenda": "O setor financeiro está sendo transformado por agentes autônomos. O Banco do Brasil acaba de lançar seu Agente Autônomo de Câmbio, uma ferramenta que interpreta documentos, consulta dados e prepara dossiês de forma automatizada, utilizando o Azure AI Foundry da Microsoft. Paralelamente, a OpenAI está liberando o GPT-5.6 Sol no ChatGPT, um modelo de raciocínio avançado para tarefas complexas em codificação, pesquisa e design. Essa onda de automação e inteligência aplicada redefine a eficiência operacional e a capacidade de inovação em todos os setores, exigindo adaptação rápida para manter a competitividade.",
+      "publicado": false
+    }
+  ]
 }
