@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "O setor financeiro está sendo transformado por agentes autônomos. O Banco do Brasil acaba de lançar seu Agente Autônomo de Câmbio, uma ferramenta que interpreta documentos, consulta dados e prepara dossiês de forma automatizada, utilizando o Azure AI Foundry da Microsoft. Paralelamente, a OpenAI está liberando o GPT-5.6 Sol no ChatGPT, um modelo de raciocínio avançado para tarefas complexas em codificação, pesquisa e design. Essa onda de automação e inteligência aplicada redefine a eficiência operacional e a capacidade de inovação em todos os setores, exigindo adaptação rápida para manter a competitividade.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
