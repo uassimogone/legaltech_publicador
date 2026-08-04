@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI acaba de redefinir os limites da computação com o anúncio do 'Astra', um modelo de IA que não apenas resolve dez problemas matemáticos historicamente intratáveis, mas o faz com provas verificáveis em Lean. Este avanço, que sugere uma evolução do GPT-5.6, aponta para 'trabalhos de longa duração' e uma capacidade sem precedentes de raciocínio e validação. A integração de Astra com outras ferramentas avançadas da OpenAI, como o GPT-5.6 Sol, em cenários de cibersegurança, demonstra uma arquitetura de IA cada vez mais robusta e multifacetada. O mercado corporativo e legal de alta performance deve se preparar para uma nova era de automação e resolução de problemas complexos.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
