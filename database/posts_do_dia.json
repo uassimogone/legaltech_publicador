@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": 1,
+      "imagem": "slide_01.png",
+      "legenda": "A OpenAI está redefinindo os padrões de segurança com o lançamento do GPT-Red, um modelo de 'red-teaming' automatizado. Utilizando aprendizado por reforço de auto-play, o GPT-Red é projetado para descobrir proativamente novas estratégias de ataque e fortalecer a resiliência dos modelos de IA contra injeções de prompt e outras vulnerabilidades críticas. A integração dos resultados de avaliação do GPT-Red ao sistema card do GPT-5.6 em 3 de agosto de 2026 sinaliza um compromisso inabalável com testes rigorosos e a segurança antes da implantação de modelos de ponta. Este avanço é um marco na engenharia de segurança de IA, garantindo que as futuras gerações de inteligência artificial sejam mais robustas e confiáveis. O mercado corporativo e legal de alta performance deve se preparar para um cenário onde a segurança cibernética impulsionada por IA se torna um diferencial competitivo essencial, protegendo ativos digitais e garantindo a integridade das operações.",
+      "publicado": false
+    },
+    {
+      "id": 2,
+      "imagem": "slide_02.png",
+      "legenda": "A revolução da hiperpersonalização chegou ao universo das fragrâncias com a Natura. Através de um projeto-piloto inovador, a empresa está utilizando inteligência artificial para criar perfumes únicos, combinando até 54 acordes olfativos. Essa iniciativa responde diretamente à crescente demanda dos consumidores brasileiros, onde 7 em cada 10 valorizam a integração da IA em suas experiências de compra. A CMO da Natura, Tatiana Ponce, revela que a personalização de fragrâncias e maquiagens é apenas a ponta do iceberg de um ecossistema de inovação impulsionado por IA. Para o mercado corporativo e legal, isso representa um novo paradigma na relação com o cliente, onde a capacidade de oferecer soluções customizadas em escala se torna um fator decisivo para a liderança e a obsolescência.",
+      "publicado": false
+    },
+    {
+      "id": 3,
+      "imagem": "slide_03.png",
+      "legenda": "O ecossistema de LegalTech está passando por uma transformação sísmica, impulsionada pela consolidação estratégica e pela integração de inteligência artificial. Aquisições como a da Ayora pela BigHand, da Unified Patents pela Anaqua, da Wexler pela Legora e, notavelmente, da Doctrine pela LexisNexis, demonstram um movimento agressivo de expansão de capacidades e portfólios. Essas fusões e aquisições não são meras transações, mas sim a arquitetura de um futuro onde a IA jurídica se torna a espinha dorsal das operações. Para escritórios e departamentos jurídicos que buscam escalabilidade e eficiência disruptiva, entender e adaptar-se a essa nova paisagem consolidada é crucial para evitar a obsolescência e liderar a próxima era da advocacia.",
+      "publicado": false
+    }
+  ]
 }
