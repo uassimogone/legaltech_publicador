@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI está redefinindo os padrões de segurança com o lançamento do GPT-Red, um modelo de 'red-teaming' automatizado. Utilizando aprendizado por reforço de auto-play, o GPT-Red é projetado para descobrir proativamente novas estratégias de ataque e fortalecer a resiliência dos modelos de IA contra injeções de prompt e outras vulnerabilidades críticas. A integração dos resultados de avaliação do GPT-Red ao sistema card do GPT-5.6 em 3 de agosto de 2026 sinaliza um compromisso inabalável com testes rigorosos e a segurança antes da implantação de modelos de ponta. Este avanço é um marco na engenharia de segurança de IA, garantindo que as futuras gerações de inteligência artificial sejam mais robustas e confiáveis. O mercado corporativo e legal de alta performance deve se preparar para um cenário onde a segurança cibernética impulsionada por IA se torna um diferencial competitivo essencial, protegendo ativos digitais e garantindo a integridade das operações.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
