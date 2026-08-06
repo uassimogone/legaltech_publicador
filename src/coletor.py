@@ -1,6 +1,7 @@
 import os
 import json
 import asyncio
+import requests
 from pathlib import Path
 from telethon import TelegramClient
 from telethon.sessions import StringSession
@@ -14,13 +15,30 @@ STRING_SESSION = os.environ["TELEGRAM_STRING_SESSION"]
 # ID do chat onde os posts estão (configurável via ambiente, com fallback)
 CHAT_ID_CONTEUDO = int(os.environ.get("TELEGRAM_CONTENT_CHAT_ID", "8553173816"))
 
-# Chat para avisos (reaproveita o secret já existente no workflow)
+# Avisos vao pelo bot (mesmo mecanismo do publicador.py). Enviar com a sessao
+# de usuario faria a mensagem sair de voce para voce mesmo, caindo em
+# "Mensagens Salvas" em vez de chegar como notificacao.
+BOT_TOKEN_AVISOS = os.environ.get("TELEGRAM_BOT_TOKEN")
 CHAT_ID_AVISOS = os.environ.get("TELEGRAM_CHAT_ID")
 
 DB_DIR = Path("database")
 DB_DIR.mkdir(exist_ok=True)
 DATA_FILE = DB_DIR / "posts_do_dia.json"
 ESTADO_FILE = DB_DIR / "estado_coletor.json"
+
+
+def avisar_telegram(texto):
+    if not (BOT_TOKEN_AVISOS and CHAT_ID_AVISOS):
+        print(f"[aviso nao enviado - bot/chat nao configurado] {texto}")
+        return
+    try:
+        requests.post(
+            f"https://api.telegram.org/bot{BOT_TOKEN_AVISOS}/sendMessage",
+            json={"chat_id": CHAT_ID_AVISOS, "text": texto},
+            timeout=10
+        )
+    except Exception as e:
+        print(f"Erro ao avisar Telegram: {e}")
 
 
 def carregar_ultimo_id():
@@ -33,6 +51,17 @@ def carregar_ultimo_id():
 def salvar_ultimo_id(msg_id):
     with open(ESTADO_FILE, "w", encoding="utf-8") as f:
         json.dump({"ultimo_message_id": msg_id}, f, ensure_ascii=False, indent=2)
+
+
+def contar_pendentes():
+    if not DATA_FILE.exists():
+        return 0
+    try:
+        with open(DATA_FILE, "r", encoding="utf-8") as f:
+            dados = json.load(f)
+        return sum(1 for p in dados.get("posts", []) if not p.get("publicado"))
+    except Exception:
+        return 0
 
 
 async def coletar_posts():
@@ -67,11 +96,27 @@ async def coletar_posts():
             return
 
         pares = []
+        novas = [m for m in mensagens if m.id > ultimo_processado]
+        print(f"Janela lida: {len(mensagens)} mensagens (ultima processada: "
+              f"{ultimo_processado}). Novas desde entao: {len(novas)}.")
+        for m in novas:
+            tipo = type(m.media).__name__ if m.media else "sem midia"
+            texto = (m.text or "").strip()
+            print(f"  msg {m.id}: midia={tipo}, texto={len(texto)} chars")
 
         for i, msg in enumerate(mensagens):
             if msg.id <= ultimo_processado:
                 continue
-            if not msg.media or not isinstance(msg.media, MessageMediaPhoto):
+            if not msg.media:
+                continue
+            if not isinstance(msg.media, MessageMediaPhoto):
+                print(f"Midia (msg {msg.id}) ignorada: tipo "
+                      f"{type(msg.media).__name__}, nao e foto comprimida.")
+                avisar_telegram(
+                    f"⚠️ Arquivo recebido (msg {msg.id}) foi ignorado: veio como "
+                    f"{type(msg.media).__name__} e não como foto. Reenvie a arte "
+                    f"como foto (compactada), não como documento/arquivo."
+                )
                 continue
 
             legenda = msg.text or ""
@@ -88,16 +133,11 @@ async def coletar_posts():
 
             if not legenda:
                 print(f"Foto (msg {msg.id}) sem legenda identificável — pulando.")
-                if CHAT_ID_AVISOS:
-                    try:
-                        await client.send_message(
-                            int(CHAT_ID_AVISOS),
-                            f"⚠️ Arte encontrada no canal (msg {msg.id}) foi ignorada: "
-                            f"não encontrei legenda associada a ela. Adicione a legenda "
-                            f"manualmente se quiser publicá-la."
-                        )
-                    except Exception as e:
-                        print(f"Erro ao avisar Telegram sobre legenda ausente: {e}")
+                avisar_telegram(
+                    f"⚠️ Arte encontrada no canal (msg {msg.id}) foi ignorada: "
+                    f"não encontrei legenda associada a ela. Adicione a legenda "
+                    f"manualmente se quiser publicá-la."
+                )
                 continue
 
             pares.append({"msg_obj": msg, "legenda": legenda})
@@ -116,6 +156,21 @@ async def coletar_posts():
                 "legenda": par["legenda"],
                 "publicado": False
             })
+
+        if not fila_posts:
+            # Nada novo: preserva a fila atual. Sobrescrever aqui descartaria
+            # posts ja coletados e ainda nao publicados.
+            salvar_ultimo_id(maior_id_visto)
+            print("Nenhum conteudo novo. Fila atual preservada.")
+            return
+
+        pendentes = contar_pendentes()
+        if pendentes:
+            avisar_telegram(
+                f"⚠️ A fila foi substituída por {len(fila_posts)} post(s) novo(s), "
+                f"mas {pendentes} post(s) do lote anterior ainda não tinham sido "
+                f"publicados e foram descartados."
+            )
 
         with open(DATA_FILE, "w", encoding="utf-8") as f:
             json.dump({"posts": fila_posts}, f, ensure_ascii=False, indent=2)
