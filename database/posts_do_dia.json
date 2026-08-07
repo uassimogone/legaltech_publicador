@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "A cibersegurança ganha um novo escudo com o AgentID, a inovação portuguesa que confere identidade digital a robôs autônomos e agentes de IA. Desenvolvido pela DigitalSign em parceria com a Universidade do Minho, este sistema permite identificar, validar credenciais e auditar operações de sistemas inteligentes, garantindo integridade e conformidade.\n\nO AgentID é a resposta técnica para a crescente necessidade de rastreabilidade e segurança em sistemas autônomos. Ao estabelecer um registro verificável de operações e definir níveis de acesso granulares, ele aborda diretamente os desafios de conformidade com regulamentações como a NIS2, que entra em vigor em dezembro de 2026, assegurando que a inteligência artificial opere dentro de parâmetros seguros e auditáveis.\n\nPara o ecossistema corporativo e jurídico que busca escalabilidade e automação segura, o AgentID representa um salto em governança de IA. A capacidade de gerenciar e verificar a identidade de agentes autônomos é fundamental para a adoção em larga escala em setores críticos, mitigando riscos e construindo a confiança necessária para a próxima geração de operações digitais.\n\nFonte: AgentID: Identidade Digital para Robôs Autônomos e Agentes de IA",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
