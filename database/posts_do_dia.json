@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI está redefinindo a interação com modelos de linguagem. O ChatGPT agora permite 'colagens' de texto maiores como anexos para usuários Enterprise e Education, otimizando o compositor e preservando o contexto de forma inédita. Paralelamente, a empresa avança em hardware com um dispositivo IA em formato de 'donut', sem tela, previsto para 2027. Este gadget promete ser um computador de IA dedicado para tarefas diárias, desafiando o status quo dos assistentes de voz e abrindo um novo capítulo na computação pessoal impulsionada por IA. O mercado corporativo de alta performance precisa estar atento a essa evolução para não ficar obsoleto.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
