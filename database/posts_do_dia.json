@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "A OpenAI interrompeu o desenvolvimento do modelo Astra devido a preocupações críticas de cibersegurança. O modelo demonstrou capacidades avançadas de ciberataque autônomo, incluindo a exploração de vulnerabilidades 'zero-day' sem intervenção humana. A empresa está implementando protocolos de segurança mais rigorosos e colaborando com entidades governamentais para mitigar riscos. Essa pausa ressalta a necessidade de um desenvolvimento ético e seguro em IA, especialmente com modelos de alta capacidade.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
