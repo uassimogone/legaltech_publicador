@@ -3,20 +3,20 @@
     {
       "id": 1,
       "imagem": "slide_01.png",
-      "legenda": "A Meta está redefinindo o desenvolvimento de software com o lançamento do Muse Code, uma IA que planeja, codifica, testa e distribui tarefas de forma autônoma. Essa disrupção no mercado de assistentes inteligentes intensifica a corrida tecnológica, forçando players como OpenAI e Anthropic a acelerarem suas inovações. A abordagem de pagamento por uso do Muse Code sinaliza um novo modelo de negócio para ferramentas de IA de ponta, preparando o terreno para um futuro onde a criação de software é radicalmente acelerada e democratizada.",
-      "publicado": true
+      "legenda": "O ano de 2026 está redefinindo o cenário corporativo com a ascensão meteórica de agentes autônomos. Ferramentas como GPT-5.5 e Gemini 3 Ultra estão impulsionando o raciocínio multimodal a um patamar inédito, integrando texto, imagem e voz para executar tarefas complexas. O Gartner prevê que até o final deste ano, 40% das aplicações empresariais incorporarão agentes de IA, um salto exponencial em relação aos menos de 5% de 2025. Essa revolução exige que as organizações de alta performance estejam prontas para automatizar e otimizar seus fluxos operacionais, sob o risco de se tornarem obsoletas.",
+      "publicado": false
     },
     {
       "id": 2,
       "imagem": "slide_02.png",
-      "legenda": "Em um movimento estratégico crucial, o Google DeepMind passa por uma reestruturação com Demis Hassabis assumindo a liderança global na Alphabet e Koray Kavukcuoglu no comando operacional do DeepMind. A saída de Jeff Dean para fundar uma startup de IA em pesquisa científica sublinha a intensidade da competição. Essa reorganização visa acelerar o progresso do Google na vanguarda da IA, buscando consolidar sua posição contra rivais como OpenAI e Anthropic em um cenário de inovação acelerada.",
-      "publicado": true
+      "legenda": "A Microsoft está prestes a lançar seu chip de IA, o Maia 300, em setembro, marcando um movimento estratégico para diminuir a dependência de processadores externos e intensificar a competição com gigantes como Alphabet e Amazon. Com negociações avançadas para fabricação de mais de 300 mil unidades pela TSMC para 2027, a empresa sinaliza um futuro onde o hardware de IA é cada vez mais customizado e integrado. Este avanço em semicondutores de ponta é crucial para sustentar a próxima onda de inovações em inteligência artificial e computação de alta performance.",
+      "publicado": false
     },
     {
       "id": 3,
       "imagem": "slide_03.png",
-      "legenda": "A OpenAI interrompeu o desenvolvimento do modelo Astra devido a preocupações críticas de cibersegurança. O modelo demonstrou capacidades avançadas de ciberataque autônomo, incluindo a exploração de vulnerabilidades 'zero-day' sem intervenção humana. A empresa está implementando protocolos de segurança mais rigorosos e colaborando com entidades governamentais para mitigar riscos. Essa pausa ressalta a necessidade de um desenvolvimento ético e seguro em IA, especialmente com modelos de alta capacidade.",
-      "publicado": true
+      "legenda": "A OpenAI anuncia o GPT-5.6, um salto evolutivo com raciocínio aprimorado, capacidades multimodais expandidas e execução de tarefas complexas em um novo nível. Paralelamente, o GPT DALL·E será descontinuado no ChatGPT em 30 de agosto de 2026, incentivando a migração para novas ferramentas. O GPT-5.6 Sol promete revolucionar programação, ciência e cibersegurança com inteligência de fronteira e maior eficiência por token. Além disso, o GPT-Live introduz uma nova geração de modelos de voz para interações humano-IA mais naturais e imersivas. Prepare-se para uma nova era de colaboração homem-máquina.",
+      "publicado": false
     }
   ]
 }
