@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "O ano de 2026 está redefinindo o cenário corporativo com a ascensão meteórica de agentes autônomos. Ferramentas como GPT-5.5 e Gemini 3 Ultra estão impulsionando o raciocínio multimodal a um patamar inédito, integrando texto, imagem e voz para executar tarefas complexas. O Gartner prevê que até o final deste ano, 40% das aplicações empresariais incorporarão agentes de IA, um salto exponencial em relação aos menos de 5% de 2025. Essa revolução exige que as organizações de alta performance estejam prontas para automatizar e otimizar seus fluxos operacionais, sob o risco de se tornarem obsoletas.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
