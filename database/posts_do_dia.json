@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "A Microsoft está prestes a lançar seu chip de IA, o Maia 300, em setembro, marcando um movimento estratégico para diminuir a dependência de processadores externos e intensificar a competição com gigantes como Alphabet e Amazon. Com negociações avançadas para fabricação de mais de 300 mil unidades pela TSMC para 2027, a empresa sinaliza um futuro onde o hardware de IA é cada vez mais customizado e integrado. Este avanço em semicondutores de ponta é crucial para sustentar a próxima onda de inovações em inteligência artificial e computação de alta performance.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
