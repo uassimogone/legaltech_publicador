@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "A OpenAI anuncia o GPT-5.6, um salto evolutivo com raciocínio aprimorado, capacidades multimodais expandidas e execução de tarefas complexas em um novo nível. Paralelamente, o GPT DALL·E será descontinuado no ChatGPT em 30 de agosto de 2026, incentivando a migração para novas ferramentas. O GPT-5.6 Sol promete revolucionar programação, ciência e cibersegurança com inteligência de fronteira e maior eficiência por token. Além disso, o GPT-Live introduz uma nova geração de modelos de voz para interações humano-IA mais naturais e imersivas. Prepare-se para uma nova era de colaboração homem-máquina.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
