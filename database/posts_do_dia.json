@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI está redefinindo o cenário da monetização de IA com a introdução de anúncios no ChatGPT para usuários na Índia. Essa nova estratégia de negócios, combinada com o lançamento de um modelo de IA especializado em cibersegurança e o acesso a versões aprimoradas do modelo Daybreak via AWS Bedrock, sinaliza um avanço robusto na proteção contra ameaças digitais impulsionadas por IA. A empresa demonstra agilidade em adaptar seus produtos para novas fontes de receita e fortalecer a segurança em um ecossistema cada vez mais complexo.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
