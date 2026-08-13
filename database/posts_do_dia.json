@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "O Google eleva o patamar da automação com atualizações massivas no Vertex AI, focando na criação e gestão de agentes autônomos. Essa evolução permite que empresas orquestrem fluxos de trabalho complexos de ponta a ponta, impulsionando a hyperautomation. A capacidade de múltiplos agentes de IA colaborarem redefine a eficiência operacional, reduzindo custos e acelerando a entrega de valor em um mercado que exige agilidade e escala sem precedentes.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
