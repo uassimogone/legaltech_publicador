@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "Diante do crescente custo computacional da IA, a Anthropic busca otimizar recursos com parcerias estratégicas, como um potencial acordo de US$ 6 bilhões com a Decart. Paralelamente, a empresa avança na confiabilidade da IA com a implementação de um sistema de watermarking para conteúdos gerados por seus modelos. Essa iniciativa visa aumentar a rastreabilidade e a autenticidade, um passo crucial para a governança de IA em larga escala.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
