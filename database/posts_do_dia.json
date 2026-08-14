@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI está redefinindo os limites da cibersegurança com o lançamento do GPT-5.6-Cyber, um modelo de IA de ponta projetado para acelerar a pesquisa de vulnerabilidades e testes de penetração. Ao reduzir as restrições em tarefas de alto risco, como o desenvolvimento de exploits e a descoberta de falhas **zero-day**, o GPT-5.6-Cyber promete elevar a linha de defesa e ataque no cenário digital. Com uma taxa de sucesso de 95% em testes de desenvolvimento de **exploit**, este modelo representa um salto quântico na capacidade de antecipar e neutralizar ameaças cibernéticas. A disponibilização via Daybreak Red abre portas para que empresas de segurança autorizadas explorem seu potencial máximo, moldando o futuro da proteção digital.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
