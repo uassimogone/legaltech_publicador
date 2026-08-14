@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "A OpenAI está democratizando o acesso à inteligência artificial de ponta com o lançamento do modo 'Ultrafast' para o GPT-5.6 Sol, operando até 14 vezes mais rápido, e a expansão do GPT-5.6 Luna para usuários gratuitos do ChatGPT. Essas atualizações representam um avanço significativo na otimização de performance e acessibilidade, permitindo que um público mais amplo experimente o poder dos modelos de linguagem mais avançados. A busca por velocidade e eficiência impulsiona a inovação, preparando o terreno para aplicações ainda mais sofisticadas e integradas em nosso cotidiano e em fluxos de trabalho de alta performance.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
