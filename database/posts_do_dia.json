@@ -3,20 +3,20 @@
     {
       "id": 1,
       "imagem": "slide_01.png",
-      "legenda": "A OpenAI está redefinindo o cenário da monetização de IA com a introdução de anúncios no ChatGPT para usuários na Índia. Essa nova estratégia de negócios, combinada com o lançamento de um modelo de IA especializado em cibersegurança e o acesso a versões aprimoradas do modelo Daybreak via AWS Bedrock, sinaliza um avanço robusto na proteção contra ameaças digitais impulsionadas por IA. A empresa demonstra agilidade em adaptar seus produtos para novas fontes de receita e fortalecer a segurança em um ecossistema cada vez mais complexo.",
-      "publicado": true
+      "legenda": "A OpenAI está redefinindo os limites da cibersegurança com o lançamento do GPT-5.6-Cyber, um modelo de IA de ponta projetado para acelerar a pesquisa de vulnerabilidades e testes de penetração. Ao reduzir as restrições em tarefas de alto risco, como o desenvolvimento de exploits e a descoberta de falhas **zero-day**, o GPT-5.6-Cyber promete elevar a linha de defesa e ataque no cenário digital. Com uma taxa de sucesso de 95% em testes de desenvolvimento de **exploit**, este modelo representa um salto quântico na capacidade de antecipar e neutralizar ameaças cibernéticas. A disponibilização via Daybreak Red abre portas para que empresas de segurança autorizadas explorem seu potencial máximo, moldando o futuro da proteção digital.",
+      "publicado": false
     },
     {
       "id": 2,
       "imagem": "slide_02.png",
-      "legenda": "O Google eleva o patamar da automação com atualizações massivas no Vertex AI, focando na criação e gestão de agentes autônomos. Essa evolução permite que empresas orquestrem fluxos de trabalho complexos de ponta a ponta, impulsionando a hyperautomation. A capacidade de múltiplos agentes de IA colaborarem redefine a eficiência operacional, reduzindo custos e acelerando a entrega de valor em um mercado que exige agilidade e escala sem precedentes.",
-      "publicado": true
+      "legenda": "O ano de 2026 é marcado como o divisor de águas para os agentes autônomos de IA, que evoluíram de simples respondentes para executores independentes de tarefas. Com 75% dos líderes empresariais brasileiros prevendo a operação de agentes de IA em processos críticos até o fim do ano, e projeções globais indicando que metade das empresas os adotará até 2027, o mercado de IA agêntica está em franca expansão. Este avanço não é sobre substituição, mas sobre uma redefinição do trabalho, focando na supervisão e otimização de sistemas autônomos. A capacidade da IA de 'terminar o que começa' está impulsionando um crescimento anual composto de 33,6%, reconfigurando fluxos operacionais e abrindo novas fronteiras para a automação e eficiência em larga escala.",
+      "publicado": false
     },
     {
       "id": 3,
       "imagem": "slide_03.png",
-      "legenda": "Diante do crescente custo computacional da IA, a Anthropic busca otimizar recursos com parcerias estratégicas, como um potencial acordo de US$ 6 bilhões com a Decart. Paralelamente, a empresa avança na confiabilidade da IA com a implementação de um sistema de watermarking para conteúdos gerados por seus modelos. Essa iniciativa visa aumentar a rastreabilidade e a autenticidade, um passo crucial para a governança de IA em larga escala.",
-      "publicado": true
+      "legenda": "A OpenAI está democratizando o acesso à inteligência artificial de ponta com o lançamento do modo 'Ultrafast' para o GPT-5.6 Sol, operando até 14 vezes mais rápido, e a expansão do GPT-5.6 Luna para usuários gratuitos do ChatGPT. Essas atualizações representam um avanço significativo na otimização de performance e acessibilidade, permitindo que um público mais amplo experimente o poder dos modelos de linguagem mais avançados. A busca por velocidade e eficiência impulsiona a inovação, preparando o terreno para aplicações ainda mais sofisticadas e integradas em nosso cotidiano e em fluxos de trabalho de alta performance.",
+      "publicado": false
     }
   ]
 }
