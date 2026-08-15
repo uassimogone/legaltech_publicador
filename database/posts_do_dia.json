@@ -3,20 +3,20 @@
     {
       "id": 1,
       "imagem": "slide_01.png",
-      "legenda": "A OpenAI está redefinindo os limites da cibersegurança com o lançamento do GPT-5.6-Cyber, um modelo de IA de ponta projetado para acelerar a pesquisa de vulnerabilidades e testes de penetração. Ao reduzir as restrições em tarefas de alto risco, como o desenvolvimento de exploits e a descoberta de falhas **zero-day**, o GPT-5.6-Cyber promete elevar a linha de defesa e ataque no cenário digital. Com uma taxa de sucesso de 95% em testes de desenvolvimento de **exploit**, este modelo representa um salto quântico na capacidade de antecipar e neutralizar ameaças cibernéticas. A disponibilização via Daybreak Red abre portas para que empresas de segurança autorizadas explorem seu potencial máximo, moldando o futuro da proteção digital.",
-      "publicado": true
+      "legenda": "A OpenAI está reescrevendo as regras da velocidade com o modo experimental 'Ultrafast' para o GPT-5.6 Sol, alcançando a impressionante marca de 750 tokens por segundo – uma aceleração de até 14x. Essa proeza, impulsionada pela parceria com a Cerebras, não é apenas um salto em performance, mas um prenúncio de agentes de IA e workflows que operarão em uma nova dimensão de agilidade. Paralelamente, a gigante da tecnologia firma aliança com a IBM, integrando seus modelos de ponta ao IBM Consulting Advantage, sinalizando uma fusão estratégica entre a vanguarda da IA e a consultoria corporativa de alta performance. Prepare-se para um ecossistema onde a velocidade da informação redefine a execução.",
+      "publicado": false
     },
     {
       "id": 2,
       "imagem": "slide_02.png",
-      "legenda": "O ano de 2026 é marcado como o divisor de águas para os agentes autônomos de IA, que evoluíram de simples respondentes para executores independentes de tarefas. Com 75% dos líderes empresariais brasileiros prevendo a operação de agentes de IA em processos críticos até o fim do ano, e projeções globais indicando que metade das empresas os adotará até 2027, o mercado de IA agêntica está em franca expansão. Este avanço não é sobre substituição, mas sobre uma redefinição do trabalho, focando na supervisão e otimização de sistemas autônomos. A capacidade da IA de 'terminar o que começa' está impulsionando um crescimento anual composto de 33,6%, reconfigurando fluxos operacionais e abrindo novas fronteiras para a automação e eficiência em larga escala.",
-      "publicado": true
+      "legenda": "O Google acelera a revolução dos agentes autônomos com o lançamento do Gemini 3.7 Flash, um modelo otimizado para codificação e execução de tarefas com um custo de US$ 0,75 por milhão de tokens de entrada. Essa inovação, integrada ao Google Cloud, promete democratizar o desenvolvimento e a implantação de soluções de IA mais eficientes. As novidades não param por aí: o Cloud SQL para MySQL 9.7 ganha busca vetorial e otimizador Hypergraph, enquanto o Gemini Enterprise expande suas conexões com o GitHub. A linha Pixel 11, agora equipada com recursos aprimorados do Gemini, reforça a visão de um futuro onde a IA está intrinsecamente ligada à nossa experiência digital e operacional.",
+      "publicado": false
     },
     {
       "id": 3,
       "imagem": "slide_03.png",
-      "legenda": "A OpenAI está democratizando o acesso à inteligência artificial de ponta com o lançamento do modo 'Ultrafast' para o GPT-5.6 Sol, operando até 14 vezes mais rápido, e a expansão do GPT-5.6 Luna para usuários gratuitos do ChatGPT. Essas atualizações representam um avanço significativo na otimização de performance e acessibilidade, permitindo que um público mais amplo experimente o poder dos modelos de linguagem mais avançados. A busca por velocidade e eficiência impulsiona a inovação, preparando o terreno para aplicações ainda mais sofisticadas e integradas em nosso cotidiano e em fluxos de trabalho de alta performance.",
-      "publicado": true
+      "legenda": "A democratização da IA de ponta atingiu um novo patamar. A DeepSeek liberou o V4 Pro, um modelo colossal com cerca de 1,6 trilhão de parâmetros e uma janela de contexto de um milhão de tokens, agora amplamente disponível sob a licença MIT. Este movimento estratégico não apenas desafia os gigantes do mercado, mas também empodera desenvolvedores e pesquisadores globalmente, abrindo portas para inovações sem precedentes em diversas áreas. A acessibilidade a modelos de tamanha magnitude é um catalisador para a próxima onda de disrupção tecnológica, redefinindo o que é possível em termos de processamento de linguagem e raciocínio complexo.",
+      "publicado": false
     }
   ]
 }
