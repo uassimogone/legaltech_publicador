@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "O Google acelera a revolução dos agentes autônomos com o lançamento do Gemini 3.7 Flash, um modelo otimizado para codificação e execução de tarefas com um custo de US$ 0,75 por milhão de tokens de entrada. Essa inovação, integrada ao Google Cloud, promete democratizar o desenvolvimento e a implantação de soluções de IA mais eficientes. As novidades não param por aí: o Cloud SQL para MySQL 9.7 ganha busca vetorial e otimizador Hypergraph, enquanto o Gemini Enterprise expande suas conexões com o GitHub. A linha Pixel 11, agora equipada com recursos aprimorados do Gemini, reforça a visão de um futuro onde a IA está intrinsecamente ligada à nossa experiência digital e operacional.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
