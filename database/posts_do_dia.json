@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "A democratização da IA de ponta atingiu um novo patamar. A DeepSeek liberou o V4 Pro, um modelo colossal com cerca de 1,6 trilhão de parâmetros e uma janela de contexto de um milhão de tokens, agora amplamente disponível sob a licença MIT. Este movimento estratégico não apenas desafia os gigantes do mercado, mas também empodera desenvolvedores e pesquisadores globalmente, abrindo portas para inovações sem precedentes em diversas áreas. A acessibilidade a modelos de tamanha magnitude é um catalisador para a próxima onda de disrupção tecnológica, redefinindo o que é possível em termos de processamento de linguagem e raciocínio complexo.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
