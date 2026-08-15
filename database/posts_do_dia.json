@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI está reescrevendo as regras da velocidade com o modo experimental 'Ultrafast' para o GPT-5.6 Sol, alcançando a impressionante marca de 750 tokens por segundo – uma aceleração de até 14x. Essa proeza, impulsionada pela parceria com a Cerebras, não é apenas um salto em performance, mas um prenúncio de agentes de IA e workflows que operarão em uma nova dimensão de agilidade. Paralelamente, a gigante da tecnologia firma aliança com a IBM, integrando seus modelos de ponta ao IBM Consulting Advantage, sinalizando uma fusão estratégica entre a vanguarda da IA e a consultoria corporativa de alta performance. Prepare-se para um ecossistema onde a velocidade da informação redefine a execução.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
