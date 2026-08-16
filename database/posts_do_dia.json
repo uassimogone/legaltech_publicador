@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "O cenário eleitoral de 2026 está sendo moldado pela IA, com o TRE-MT lançando o 'Pardal Móvel' para categorizar denúncias de propaganda irregular. Essa inovação visa otimizar a análise, mas expõe um desafio global: o descompasso entre o rápido avanço das ferramentas de IA e a capacidade de detecção de conteúdos manipulados ou gerados por elas. Novas regulamentações mais rigorosas para o uso de IA e deepfakes refletem a urgência em garantir a integridade informacional em um ambiente cada vez mais digitalizado e suscetível à desinformação algorítmica. A corrida para manter a verdade em tempos de IA avançada está apenas começando.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
