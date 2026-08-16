@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "O Google eleva o patamar da inteligência artificial com o Gemini 11, integrando-o profundamente aos dispositivos Pixel 11, Pixel Watch 5 e Pixel Tag. O novo recurso 'Rambler' aprimora a entrada de voz, enquanto sugestões contextuais e a execução de tarefas multietapas em até 40 aplicativos prometem uma revolução na produtividade. Com o anúncio de novos modelos Gemini para construção de agentes de IA em escala e o Gemini Robotics ER 2 para robótica avançada, o Google está pavimentando o caminho para um futuro onde a IA não apenas assiste, mas opera de forma autônoma e inteligente em nosso cotidiano e em ambientes industriais complexos.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
