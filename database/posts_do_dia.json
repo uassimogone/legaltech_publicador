@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "A revolução dos agentes autônomos de IA deixou de ser teoria para se tornar a espinha dorsal da operação empresarial em 2026. Empresas que hesitam em abraçar essa nova era de automação correm o risco de serem pulverizadas por concorrentes dez vezes mais produtivos. Com 75% dos líderes empresariais brasileiros prevendo a operação de agentes de IA em processos críticos até o fim do ano e a IDC projetando que metade das empresas globais os implementará até 2027, a mensagem é clara: a IA agêntica não é mais uma experimentação, é o novo padrão de performance. A SpaceX já está na vanguarda com o Grokbot, um agente autônomo que opera aplicativos por US$ 120/mês, sinalizando o futuro da infraestrutura de IA.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
