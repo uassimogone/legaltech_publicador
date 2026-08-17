@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI está reescrevendo as regras da velocidade com o lançamento em pré-visualização limitada do \"Ultrafast mode\" para o GPT-5.6 Sol. Este novo nível de serviço da API promete executar tarefas até 14 vezes mais rápido que o processamento padrão, um salto quântico para clientes que demandam respostas em tempo real e processamento massivo. A era da latência zero está batendo à porta, impulsionando a próxima onda de inovações em IA.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
