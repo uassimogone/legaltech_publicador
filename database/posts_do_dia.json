@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "A era dos robôs humanoides capazes de executar tarefas complexas em ambientes desconhecidos está mais perto do que imaginamos. Segundo o fundador da Unitree, o marco do \"momento ChatGPT\" para robótica – onde a tecnologia atinge maturidade e acessibilidade massiva – pode ocorrer em até uma década. O desafio atual reside na capacidade de generalização da IA em sistemas físicos, mas os avanços indicam que em breve veremos robôs autônomos realizando cerca de 80% das tarefas em 80% dos cenários. Prepare-se para a próxima onda de disrupção, onde a inteligência artificial transcende o digital e molda o mundo físico.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
