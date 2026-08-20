@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI está redefinindo os limites da IA com o lançamento do GPT-5.6 Sol no ChatGPT. Este novo modelo de raciocínio avançado é projetado para decifrar desafios complexos em codificação, pesquisa científica, cibersegurança e design. Disponível para assinantes pagos, o GPT-5.6 Sol promete acelerar a inovação em áreas de alta complexidade técnica, elevando o padrão para o que é possível com a inteligência artificial. A atualização das especificações do modelo também traz maior clareza sobre interações éticas e o manejo de informações, garantindo um desenvolvimento mais responsável da tecnologia.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
