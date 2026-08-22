@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI acaba de democratizar o futuro da codificação com o lançamento do framework Codex Harness sob a licença Apache-2.0. Essa infraestrutura de execução para agentes de IA, como o próprio Codex, promete uma redução drástica de até seis vezes no consumo de tokens e um salto em benchmarks de performance. Com ferramentas como `codex exec` e um SDK oficial, o Harness já está sendo adotado por gigantes como Cisco e Thrive Holdings para criar agentes customizados de alta performance. Prepare-se para uma nova era de eficiência computacional que redefine o que é possível em automação inteligente.\n\nO desdobramento prático é um salto quântico em otimização. A arquitetura do Harness foi projetada para maximizar a performance e minimizar a pegada computacional, permitindo que modelos de IA executem tarefas complexas com uma fração dos recursos anteriormente necessários. Isso não apenas acelera o desenvolvimento e a implantação de agentes de IA, mas também abre portas para aplicações mais sofisticadas e acessíveis em larga escala.\n\nPara o ecossistema corporativo e jurídico de ponta, isso significa a capacidade de escalar soluções de IA de forma exponencial, com custos operacionais drasticamente reduzidos. A automação de tarefas de codificação e a criação de agentes autônomos mais eficientes se tornam uma realidade palpável, impulsionando a inovação e a competitividade em um mercado cada vez mais acelerado. Ignorar essa evolução é arriscar a obsolescência.\n\nFonte: https://openai.com/index/codex-harness-framework-release",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
