@@ -3,20 +3,14 @@
     {
       "id": 1,
       "imagem": "slide_01.png",
-      "legenda": "A OpenAI está redefinindo a interação com o ChatGPT, aprimorando radicalmente o sistema de descoberta e recomendação de plugins. O foco agora é em priorizar ferramentas que demonstram uso contínuo, garantindo que os usuários encontrem valor real e imediato. Essa evolução não é apenas uma melhoria de interface; é um salto na inteligência de recomendação, otimizando a experiência tanto na web quanto em dispositivos móveis. Prepare-se para um ecossistema de plugins mais intuitivo e eficaz, onde a relevância é a nova métrica de sucesso.",
-      "publicado": true
+      "legenda": "A revolução da IA não poupa faixas etárias. A OpenAI lança o \"ChatGPT for Teens\", uma versão hipersegura com filtros robustos e controle parental, projetada para guiar adolescentes em um ambiente digital seguro e focado no aprendizado. Paralelamente, o Google expande o acesso ao seu poderoso Gemini com o \"Student Hub\", oferecendo ferramentas de estudo integradas e um ano gratuito de Google AI Pro para estudantes universitários. Essas iniciativas marcam um ponto de inflexão na democratização do acesso à IA, preparando a próxima geração para um futuro cada vez mais tecnológico e autônomo, enquanto redefine a paisagem educacional global. O mercado corporativo e legal de alta performance deve observar atentamente, pois a familiaridade com essas ferramentas desde cedo moldará a força de trabalho e os consumidores de amanhã.",
+      "publicado": false
     },
     {
       "id": 2,
       "imagem": "slide_02.png",
-      "legenda": "O cenário de automação está em ebulição! Relatórios recentes indicam que 56% das horas de trabalho no Brasil possuem potencial técnico para automação por meio de agentes autônomos. Essa revolução não se trata apenas de substituir tarefas, mas de redefinir fluxos operacionais inteiros. Com 26% das organizações já explorando ativamente o desenvolvimento de agentes de IA e outras 42% em processo, a transição de chatbots para sistemas capazes de planejar, executar e otimizar tarefas com autonomia é iminente. Empresas de ponta já posicionam agentes de IA como o núcleo de suas estratégias futuras. A pergunta não é se a automação virá, mas quão rápido você estará pronto para liderar essa transformação.",
-      "publicado": true
-    },
-    {
-      "id": 3,
-      "imagem": "slide_03.png",
-      "legenda": "O ecossistema LegalTech está em plena expansão, impulsionado pela adoção massiva de Inteligência Artificial e agentes autônomos. Novas plataformas jurídicas nativas de IA, assistentes de casos com capacidades preditivas e ferramentas de automação de fluxo de trabalho com subagentes estão redefinindo a eficiência e a precisão. O Global LegalTech Summit 2026 reforça essa tendência, destacando a IA como pilar para operações jurídicas, litígios e gestão de contratos. A integração de IA agêntica em 40% das aplicações corporativas até o final de 2026 promete ganhos de eficiência de até 80%. A pergunta para os escritórios de alta performance é: como você está se preparando para operar na vanguarda dessa revolução tecnológica?",
-      "publicado": true
+      "legenda": "O ecossistema de IA está acelerando a um ritmo vertiginoso. A OpenAI não apenas refina suas interações com o lançamento do GPT-5.6 Sol, um modelo de raciocínio avançado para tarefas complexas em programação, pesquisa e ciência, mas também atualiza suas especificações de modelo para garantir interações mais seguras e claras. Simultaneamente, 2026 se consolida como o ano em que os agentes autônomos de IA deixam o campo teórico para se tornarem protagonistas operacionais. Com projeções de que 40% das aplicações empresariais integrarão esses agentes até o final do ano, prometendo ganhos de eficiência de até 80%, a automação de processos inteiros sem intervenção humana se torna a nova fronteira. Para o setor jurídico e corporativo, isso significa uma redefinição radical de fluxos de trabalho, exigindo adaptação imediata para não ficar obsoleto diante da eficiência e escala sem precedentes.",
+      "publicado": false
     }
   ]
 }
