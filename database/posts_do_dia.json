@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "O ecossistema de IA está acelerando a um ritmo vertiginoso. A OpenAI não apenas refina suas interações com o lançamento do GPT-5.6 Sol, um modelo de raciocínio avançado para tarefas complexas em programação, pesquisa e ciência, mas também atualiza suas especificações de modelo para garantir interações mais seguras e claras. Simultaneamente, 2026 se consolida como o ano em que os agentes autônomos de IA deixam o campo teórico para se tornarem protagonistas operacionais. Com projeções de que 40% das aplicações empresariais integrarão esses agentes até o final do ano, prometendo ganhos de eficiência de até 80%, a automação de processos inteiros sem intervenção humana se torna a nova fronteira. Para o setor jurídico e corporativo, isso significa uma redefinição radical de fluxos de trabalho, exigindo adaptação imediata para não ficar obsoleto diante da eficiência e escala sem precedentes.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
