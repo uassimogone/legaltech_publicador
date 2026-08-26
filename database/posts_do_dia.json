@@ -3,14 +3,14 @@
     {
       "id": 1,
       "imagem": "slide_01.png",
-      "legenda": "A revolução da IA não poupa faixas etárias. A OpenAI lança o \"ChatGPT for Teens\", uma versão hipersegura com filtros robustos e controle parental, projetada para guiar adolescentes em um ambiente digital seguro e focado no aprendizado. Paralelamente, o Google expande o acesso ao seu poderoso Gemini com o \"Student Hub\", oferecendo ferramentas de estudo integradas e um ano gratuito de Google AI Pro para estudantes universitários. Essas iniciativas marcam um ponto de inflexão na democratização do acesso à IA, preparando a próxima geração para um futuro cada vez mais tecnológico e autônomo, enquanto redefine a paisagem educacional global. O mercado corporativo e legal de alta performance deve observar atentamente, pois a familiaridade com essas ferramentas desde cedo moldará a força de trabalho e os consumidores de amanhã.",
-      "publicado": true
+      "legenda": "O Google está redefinindo o cenário da inteligência artificial com o lançamento do Gemini Enterprise for Legal and Financial Services. Esta plataforma de ponta não é apenas uma atualização; é uma revolução na automação de tarefas, tanto rotineiras quanto complexas, liberando profissionais para se dedicarem a estratégias de alto impacto. Com integração profunda em softwares jurídicos e financeiros, e agentes de IA capazes de executar funções especializadas com mínima supervisão, o Gemini Enterprise promete otimizar fluxos de trabalho e elevar a eficiência a patamares inéditos, garantindo, ao mesmo tempo, a segurança e confidencialidade dos dados mais sensíveis. Prepare-se para uma nova era de produtividade e inovação.",
+      "publicado": false
     },
     {
       "id": 2,
       "imagem": "slide_02.png",
-      "legenda": "O ecossistema de IA está acelerando a um ritmo vertiginoso. A OpenAI não apenas refina suas interações com o lançamento do GPT-5.6 Sol, um modelo de raciocínio avançado para tarefas complexas em programação, pesquisa e ciência, mas também atualiza suas especificações de modelo para garantir interações mais seguras e claras. Simultaneamente, 2026 se consolida como o ano em que os agentes autônomos de IA deixam o campo teórico para se tornarem protagonistas operacionais. Com projeções de que 40% das aplicações empresariais integrarão esses agentes até o final do ano, prometendo ganhos de eficiência de até 80%, a automação de processos inteiros sem intervenção humana se torna a nova fronteira. Para o setor jurídico e corporativo, isso significa uma redefinição radical de fluxos de trabalho, exigindo adaptação imediata para não ficar obsoleto diante da eficiência e escala sem precedentes.",
-      "publicado": true
+      "legenda": "O futuro da automação corporativa está aqui, e ele é autônomo. A ascensão dos agentes de IA, capazes de executar tarefas complexas sem intervenção humana contínua, está remodelando o panorama empresarial. Plataformas inovadoras estão agora equipando esses agentes com conhecimento contextual específico de cada organização, um pilar fundamental para o avanço da IA generativa. As projeções são claras: até o final de 2026, 40% das aplicações corporativas incorporarão agentes de IA, impulsionando um redesenho radical de processos para alcançar ganhos de eficiência sem precedentes. A pergunta não é se sua empresa estará pronta, mas quão rápido você adotará essa revolução.",
+      "publicado": false
     }
   ]
 }
