@@ -3,14 +3,20 @@
     {
       "id": 1,
       "imagem": "slide_01.png",
-      "legenda": "O Google está redefinindo o cenário da inteligência artificial com o lançamento do Gemini Enterprise for Legal and Financial Services. Esta plataforma de ponta não é apenas uma atualização; é uma revolução na automação de tarefas, tanto rotineiras quanto complexas, liberando profissionais para se dedicarem a estratégias de alto impacto. Com integração profunda em softwares jurídicos e financeiros, e agentes de IA capazes de executar funções especializadas com mínima supervisão, o Gemini Enterprise promete otimizar fluxos de trabalho e elevar a eficiência a patamares inéditos, garantindo, ao mesmo tempo, a segurança e confidencialidade dos dados mais sensíveis. Prepare-se para uma nova era de produtividade e inovação.",
-      "publicado": true
+      "legenda": "A OpenAI não está brincando! O Brasil se consolida como o terceiro maior mercado global, com 215 milhões de mensagens diárias no ChatGPT. Mas o game-changer é o GPT-5.6 Sol: um salto quântico em codificação, biologia e cibersegurança, com foco em 'agentic capabilities'. Prepare-se para agentes de IA que raciocinam e agem. A revolução da IA autônoma está batendo à porta, e o mercado corporativo de alta performance precisa estar pronto para não ser engolido pela obsolescência.",
+      "publicado": false
     },
     {
       "id": 2,
       "imagem": "slide_02.png",
-      "legenda": "O futuro da automação corporativa está aqui, e ele é autônomo. A ascensão dos agentes de IA, capazes de executar tarefas complexas sem intervenção humana contínua, está remodelando o panorama empresarial. Plataformas inovadoras estão agora equipando esses agentes com conhecimento contextual específico de cada organização, um pilar fundamental para o avanço da IA generativa. As projeções são claras: até o final de 2026, 40% das aplicações corporativas incorporarão agentes de IA, impulsionando um redesenho radical de processos para alcançar ganhos de eficiência sem precedentes. A pergunta não é se sua empresa estará pronta, mas quão rápido você adotará essa revolução.",
-      "publicado": true
+      "legenda": "A infraestrutura de IA global acaba de ganhar um novo hub! A Alibaba Cloud desembarca no Brasil com dois data centers, prometendo democratizar o acesso a serviços de nuvem e IA de ponta. O destaque? Um forte viés em código aberto, com o modelo Qwen 3.8-Flash já bombando no Hugging Face. Com um investimento global de US$ 53 bilhões em IA, a Alibaba está redefinindo o cenário competitivo. Empresas que buscam escala e inovação precisam ficar atentas a essa nova onda de poder computacional.",
+      "publicado": false
+    },
+    {
+      "id": 3,
+      "imagem": "slide_03.png",
+      "legenda": "O 'cérebro operacional' para agentes de IA autônomos no comércio global acaba de receber um aporte massivo! A Nauta, com o apoio de gigantes como BMW i Ventures e Hitachi Ventures, está construindo a próxima geração de tomadores de decisão em tempo real. Sua tecnologia unifica dados fragmentados em uma camada nativa de IA, permitindo que agentes raciocinem, decidam e executem com agilidade sem precedentes. Para empresas que almejam eficiência e automação extrema, entender essa disrupção é crucial para não ficar para trás.",
+      "publicado": false
     }
   ]
 }
