@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "A infraestrutura de IA global acaba de ganhar um novo hub! A Alibaba Cloud desembarca no Brasil com dois data centers, prometendo democratizar o acesso a serviços de nuvem e IA de ponta. O destaque? Um forte viés em código aberto, com o modelo Qwen 3.8-Flash já bombando no Hugging Face. Com um investimento global de US$ 53 bilhões em IA, a Alibaba está redefinindo o cenário competitivo. Empresas que buscam escala e inovação precisam ficar atentas a essa nova onda de poder computacional.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
