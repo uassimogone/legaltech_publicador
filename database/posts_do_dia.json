@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "A OpenAI está acelerando o futuro da IA com atualizações estratégicas em suas especificações de modelo, focando em interações mais seguras e precisas, especialmente para públicos jovens. Em paralelo, a empresa anuncia a descontinuação de modelos como o OpenAI o3 e GPT-4.5 no ChatGPT. Essa decisão visa concentrar recursos e poder computacional nos modelos mais avançados e eficientes, garantindo que os usuários tenham acesso à tecnologia de ponta e preparando o terreno para inovações ainda mais disruptivas.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
