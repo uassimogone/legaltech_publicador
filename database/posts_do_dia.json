@@ -3,19 +3,19 @@
     {
       "id": 1,
       "imagem": "slide_01.png",
-      "legenda": "A OpenAI não está brincando! O Brasil se consolida como o terceiro maior mercado global, com 215 milhões de mensagens diárias no ChatGPT. Mas o game-changer é o GPT-5.6 Sol: um salto quântico em codificação, biologia e cibersegurança, com foco em 'agentic capabilities'. Prepare-se para agentes de IA que raciocinam e agem. A revolução da IA autônoma está batendo à porta, e o mercado corporativo de alta performance precisa estar pronto para não ser engolido pela obsolescência.",
-      "publicado": true
+      "legenda": "O Google está redefinindo o acesso à Inteligência Artificial com o lançamento de um conjunto inovador de ferramentas projetadas para otimizar os custos de IA. Essa iniciativa estratégica não apenas democratiza o poder da IA para um espectro mais amplo de empresas, mas também aborda diretamente um dos maiores gargalos na adoção tecnológica: o investimento financeiro. Ao focar na acessibilidade e governança, o Google se posiciona na vanguarda, oferecendo tanto modelos de ponta quanto soluções econômicas para a próxima onda de inovação.",
+      "publicado": false
     },
     {
       "id": 2,
       "imagem": "slide_02.png",
-      "legenda": "A infraestrutura de IA global acaba de ganhar um novo hub! A Alibaba Cloud desembarca no Brasil com dois data centers, prometendo democratizar o acesso a serviços de nuvem e IA de ponta. O destaque? Um forte viés em código aberto, com o modelo Qwen 3.8-Flash já bombando no Hugging Face. Com um investimento global de US$ 53 bilhões em IA, a Alibaba está redefinindo o cenário competitivo. Empresas que buscam escala e inovação precisam ficar atentas a essa nova onda de poder computacional.",
-      "publicado": true
+      "legenda": "A OpenAI está acelerando o futuro da IA com atualizações estratégicas em suas especificações de modelo, focando em interações mais seguras e precisas, especialmente para públicos jovens. Em paralelo, a empresa anuncia a descontinuação de modelos como o OpenAI o3 e GPT-4.5 no ChatGPT. Essa decisão visa concentrar recursos e poder computacional nos modelos mais avançados e eficientes, garantindo que os usuários tenham acesso à tecnologia de ponta e preparando o terreno para inovações ainda mais disruptivas.",
+      "publicado": false
     },
     {
       "id": 3,
       "imagem": "slide_03.png",
-      "legenda": "O 'cérebro operacional' para agentes de IA autônomos no comércio global acaba de receber um aporte massivo! A Nauta, com o apoio de gigantes como BMW i Ventures e Hitachi Ventures, está construindo a próxima geração de tomadores de decisão em tempo real. Sua tecnologia unifica dados fragmentados em uma camada nativa de IA, permitindo que agentes raciocinem, decidam e executem com agilidade sem precedentes. Para empresas que almejam eficiência e automação extrema, entender essa disrupção é crucial para não ficar para trás.",
+      "legenda": "A engenharia de qualidade agêntica atinge um novo patamar com o lançamento do 'Agent Assurance' pela TestMu AI. Em um cenário onde agentes de IA autônomos se tornam cada vez mais sofisticados e integrados, a verificação pré-lançamento é crucial. Esta ferramenta pioneira garante que os agentes de IA sejam robustos, confiáveis e seguros antes de chegarem ao mercado. A recente conferência Testµ 2026 solidificou a posição da TestMu AI como líder na definição de padrões para o desenvolvimento de software agêntico e a garantia de qualidade autônoma.",
       "publicado": false
     }
   ]
