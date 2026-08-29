@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "A engenharia de qualidade agêntica atinge um novo patamar com o lançamento do 'Agent Assurance' pela TestMu AI. Em um cenário onde agentes de IA autônomos se tornam cada vez mais sofisticados e integrados, a verificação pré-lançamento é crucial. Esta ferramenta pioneira garante que os agentes de IA sejam robustos, confiáveis e seguros antes de chegarem ao mercado. A recente conferência Testµ 2026 solidificou a posição da TestMu AI como líder na definição de padrões para o desenvolvimento de software agêntico e a garantia de qualidade autônoma.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
