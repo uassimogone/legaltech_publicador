@@ -3,20 +3,20 @@
     {
       "id": 1,
       "imagem": "slide_01.png",
-      "legenda": "O Google está redefinindo o acesso à Inteligência Artificial com o lançamento de um conjunto inovador de ferramentas projetadas para otimizar os custos de IA. Essa iniciativa estratégica não apenas democratiza o poder da IA para um espectro mais amplo de empresas, mas também aborda diretamente um dos maiores gargalos na adoção tecnológica: o investimento financeiro. Ao focar na acessibilidade e governança, o Google se posiciona na vanguarda, oferecendo tanto modelos de ponta quanto soluções econômicas para a próxima onda de inovação.",
-      "publicado": true
+      "legenda": "A revolução da inteligência artificial está cada vez mais móvel. O Google Gemini Nano, a mais recente joia da coroa da família Gemini, agora pulsa em dispositivos de alta performance como os novos Pixel 11 e os dobráveis Samsung Galaxy Z Flip8 e Z Fold8. Esta integração profunda promete funcionalidades de IA de ponta diretamente no seu bolso, exigindo o que há de melhor em hardware – a partir de 12GB de RAM e processadores de última geração – para desdobrar todo o seu potencial e oferecer uma experiência de usuário fluida e inteligente. Prepare-se para um novo patamar de interação com a tecnologia.",
+      "publicado": false
     },
     {
       "id": 2,
       "imagem": "slide_02.png",
-      "legenda": "A OpenAI está acelerando o futuro da IA com atualizações estratégicas em suas especificações de modelo, focando em interações mais seguras e precisas, especialmente para públicos jovens. Em paralelo, a empresa anuncia a descontinuação de modelos como o OpenAI o3 e GPT-4.5 no ChatGPT. Essa decisão visa concentrar recursos e poder computacional nos modelos mais avançados e eficientes, garantindo que os usuários tenham acesso à tecnologia de ponta e preparando o terreno para inovações ainda mais disruptivas.",
-      "publicado": true
+      "legenda": "A inovação tecnológica rompe barreiras e chega ao coração do agronegócio. Na 49ª Expointer, a CNA e a Farsul apresentaram a 'Joia', uma plataforma de inteligência artificial revolucionária e, o melhor, gratuita para todos os produtores rurais do Brasil. Esta iniciativa audaciosa visa democratizar o acesso a tecnologias de ponta, capacitando o campo com ferramentas para otimizar a tomada de decisões, planejar safras com precisão e impulsionar a produtividade. É a IA a serviço da terra, moldando o futuro da agricultura.",
+      "publicado": false
     },
     {
       "id": 3,
       "imagem": "slide_03.png",
-      "legenda": "A engenharia de qualidade agêntica atinge um novo patamar com o lançamento do 'Agent Assurance' pela TestMu AI. Em um cenário onde agentes de IA autônomos se tornam cada vez mais sofisticados e integrados, a verificação pré-lançamento é crucial. Esta ferramenta pioneira garante que os agentes de IA sejam robustos, confiáveis e seguros antes de chegarem ao mercado. A recente conferência Testµ 2026 solidificou a posição da TestMu AI como líder na definição de padrões para o desenvolvimento de software agêntico e a garantia de qualidade autônoma.",
-      "publicado": true
+      "legenda": "O cenário de cibersegurança está prestes a ser reescrito. Grandes players da indústria de IA emitiram um alerta sombrio: uma nova era de ciberataques automatizados, orquestrados por agentes autônomos, pode estar iminente. A capacidade dessas IAs de executar tarefas complexas e de forma independente, combinada com a possibilidade de uso malicioso, levanta preocupações sérias. Um incidente recente, onde mais de 100 sistemas de água e esgoto nos EUA foram alvos de 'atividade cibernética maliciosa', serve como um prenúncio do que está por vir. A corrida para defender a infraestrutura digital contra ameaças autônomas acaba de começar.",
+      "publicado": false
     }
   ]
 }
