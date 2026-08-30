@@ -3,19 +3,19 @@
     {
       "id": 1,
       "imagem": "slide_01.png",
-      "legenda": "A revolução da inteligência artificial está cada vez mais móvel. O Google Gemini Nano, a mais recente joia da coroa da família Gemini, agora pulsa em dispositivos de alta performance como os novos Pixel 11 e os dobráveis Samsung Galaxy Z Flip8 e Z Fold8. Esta integração profunda promete funcionalidades de IA de ponta diretamente no seu bolso, exigindo o que há de melhor em hardware – a partir de 12GB de RAM e processadores de última geração – para desdobrar todo o seu potencial e oferecer uma experiência de usuário fluida e inteligente. Prepare-se para um novo patamar de interação com a tecnologia.",
-      "publicado": true
+      "legenda": "A vanguarda da IA avança com a OpenAI revelando atualizações cruciais em sua Especificação de Modelo, focando em interações relacionais seguras para adolescentes e na mitigação de premissas falsas. O grande destaque é a implementação do GPT-5.6 Sol em planos pagos do ChatGPT, prometendo um salto quântico em tarefas complexas de programação, pesquisa e ciência, redefinindo os limites do que é computacionalmente possível. Prepare-se para uma nova era de inteligência artificial aplicada.",
+      "publicado": false
     },
     {
       "id": 2,
       "imagem": "slide_02.png",
-      "legenda": "A inovação tecnológica rompe barreiras e chega ao coração do agronegócio. Na 49ª Expointer, a CNA e a Farsul apresentaram a 'Joia', uma plataforma de inteligência artificial revolucionária e, o melhor, gratuita para todos os produtores rurais do Brasil. Esta iniciativa audaciosa visa democratizar o acesso a tecnologias de ponta, capacitando o campo com ferramentas para otimizar a tomada de decisões, planejar safras com precisão e impulsionar a produtividade. É a IA a serviço da terra, moldando o futuro da agricultura.",
-      "publicado": true
+      "legenda": "O ecossistema Gemini do Google está em ebulição com os 'Gemini Drops' de agosto de 2026. Um plano gratuito de 'Google AI Pro' para estudantes, um 'Student Hub' e 'Study Notebooks' democratizam o acesso à IA avançada. O lançamento do modelo 'Gemini 3.7 Flash', novas funcionalidades para 'Gemini Live', expansão de 'Connected Apps', integração em veículos Waymo e o 'Gemini Omni 1.1 Flash' solidificam a liderança do Google. O Google I/O 2026 apresentou o 'Gemini Spark', um agente autônomo que opera em nome do usuário, e o Gemini 3.5 Flash com capacidades multimodais revolucionárias, sinalizando um futuro onde a IA se torna uma extensão proativa de nossas capacidades.",
+      "publicado": false
     },
     {
       "id": 3,
       "imagem": "slide_03.png",
-      "legenda": "O cenário de cibersegurança está prestes a ser reescrito. Grandes players da indústria de IA emitiram um alerta sombrio: uma nova era de ciberataques automatizados, orquestrados por agentes autônomos, pode estar iminente. A capacidade dessas IAs de executar tarefas complexas e de forma independente, combinada com a possibilidade de uso malicioso, levanta preocupações sérias. Um incidente recente, onde mais de 100 sistemas de água e esgoto nos EUA foram alvos de 'atividade cibernética maliciosa', serve como um prenúncio do que está por vir. A corrida para defender a infraestrutura digital contra ameaças autônomas acaba de começar.",
+      "legenda": "Em um movimento estratégico para salvaguardar a integridade democrática nas eleições de 2026, o Tribunal Superior Eleitoral (TSE) e o Google lançaram o 'Likeness ID' do YouTube. Esta ferramenta inovadora utiliza IA para identificar conteúdos gerados ou modificados que replicam a aparência de candidatos, combatendo eficazmente os deepfakes e garantindo um processo eleitoral mais transparente e seguro. Uma demonstração clara de como a tecnologia pode ser empregada para proteger os pilares da sociedade.",
       "publicado": false
     }
   ]
