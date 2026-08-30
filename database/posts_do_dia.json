@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "Em um movimento estratégico para salvaguardar a integridade democrática nas eleições de 2026, o Tribunal Superior Eleitoral (TSE) e o Google lançaram o 'Likeness ID' do YouTube. Esta ferramenta inovadora utiliza IA para identificar conteúdos gerados ou modificados que replicam a aparência de candidatos, combatendo eficazmente os deepfakes e garantindo um processo eleitoral mais transparente e seguro. Uma demonstração clara de como a tecnologia pode ser empregada para proteger os pilares da sociedade.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
