@@ -3,20 +3,20 @@
     {
       "id": 1,
       "imagem": "slide_01.png",
-      "legenda": "A vanguarda da IA avança com a OpenAI revelando atualizações cruciais em sua Especificação de Modelo, focando em interações relacionais seguras para adolescentes e na mitigação de premissas falsas. O grande destaque é a implementação do GPT-5.6 Sol em planos pagos do ChatGPT, prometendo um salto quântico em tarefas complexas de programação, pesquisa e ciência, redefinindo os limites do que é computacionalmente possível. Prepare-se para uma nova era de inteligência artificial aplicada.",
-      "publicado": true
+      "legenda": "A Coreia do Sul está redefinindo o acesso à tecnologia com o lançamento do programa \"Inteligência Artificial para Todos\", oferecendo IA generativa gratuita e ilimitada a todos os cidadãos. Esta iniciativa pioneira, que entra em fase beta em setembro, visa capacitar a população com ferramentas avançadas para tarefas cotidianas, desde agendamentos médicos a questões fiscais. Ao selecionar consórcios tecnológicos para desenvolver plataformas integradas aos sistemas governamentais, o país se posiciona na vanguarda da democratização da IA, impulsionando a inovação e a eficiência em escala nacional. O mercado corporativo e legal de alta performance deve observar atentamente essa revolução, pois a automação e a inteligência acessível a todos sinalizam uma nova era de produtividade.",
+      "publicado": false
     },
     {
       "id": 2,
       "imagem": "slide_02.png",
-      "legenda": "O ecossistema Gemini do Google está em ebulição com os 'Gemini Drops' de agosto de 2026. Um plano gratuito de 'Google AI Pro' para estudantes, um 'Student Hub' e 'Study Notebooks' democratizam o acesso à IA avançada. O lançamento do modelo 'Gemini 3.7 Flash', novas funcionalidades para 'Gemini Live', expansão de 'Connected Apps', integração em veículos Waymo e o 'Gemini Omni 1.1 Flash' solidificam a liderança do Google. O Google I/O 2026 apresentou o 'Gemini Spark', um agente autônomo que opera em nome do usuário, e o Gemini 3.5 Flash com capacidades multimodais revolucionárias, sinalizando um futuro onde a IA se torna uma extensão proativa de nossas capacidades.",
-      "publicado": true
+      "legenda": "Andrew Bailey, governador do Banco da Inglaterra, soou o alarme: a IA avançada representa um risco sistêmico sem precedentes para a estabilidade financeira global. Em um alerta contundente ao G20, ele destacou que a velocidade, escala e economia do risco cibernético, amplificadas por modelos de IA de ponta, podem corroer a confiança do mercado. A ausência de protocolos robustos para gerenciar o desenvolvimento e a implementação dessas tecnologias em muitas jurisdições agrava a situação. Para o ecossistema corporativo e jurídico de alta performance, isso significa uma urgência em reavaliar estratégias de segurança cibernética e conformidade, pois a disrupção impulsionada pela IA exige uma resiliência e vigilância sem precedentes.",
+      "publicado": false
     },
     {
       "id": 3,
       "imagem": "slide_03.png",
-      "legenda": "Em um movimento estratégico para salvaguardar a integridade democrática nas eleições de 2026, o Tribunal Superior Eleitoral (TSE) e o Google lançaram o 'Likeness ID' do YouTube. Esta ferramenta inovadora utiliza IA para identificar conteúdos gerados ou modificados que replicam a aparência de candidatos, combatendo eficazmente os deepfakes e garantindo um processo eleitoral mais transparente e seguro. Uma demonstração clara de como a tecnologia pode ser empregada para proteger os pilares da sociedade.",
-      "publicado": true
+      "legenda": "O Google eleva a interação com o conhecimento a um novo patamar com o lançamento global do \"Expert Intelligence\" no Gemini Notebook. Agora, mais de 100 mil livros digitais do Google Play Books se tornam fontes dinâmicas de dados, permitindo que usuários façam perguntas complexas e recebam respostas detalhadas diretamente do texto original. A capacidade de gerar infográficos, resumos em áudio e questionários a partir do conteúdo literário representa um avanço monumental na forma como acessamos e processamos informações. Para profissionais e empresas que buscam otimizar a pesquisa e a absorção de conhecimento, essa fusão de IA e acervo literário abre portas para uma eficiência e profundidade de análise nunca antes vistas.",
+      "publicado": false
     }
   ]
 }
