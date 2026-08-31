@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A Coreia do Sul está redefinindo o acesso à tecnologia com o lançamento do programa \"Inteligência Artificial para Todos\", oferecendo IA generativa gratuita e ilimitada a todos os cidadãos. Esta iniciativa pioneira, que entra em fase beta em setembro, visa capacitar a população com ferramentas avançadas para tarefas cotidianas, desde agendamentos médicos a questões fiscais. Ao selecionar consórcios tecnológicos para desenvolver plataformas integradas aos sistemas governamentais, o país se posiciona na vanguarda da democratização da IA, impulsionando a inovação e a eficiência em escala nacional. O mercado corporativo e legal de alta performance deve observar atentamente essa revolução, pois a automação e a inteligência acessível a todos sinalizam uma nova era de produtividade.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
