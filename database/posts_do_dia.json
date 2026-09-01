@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "A Coreia do Sul está traçando um futuro onde a IA generativa é um direito cidadão. O programa 'Inteligência Artificial para Todos' promete acesso gratuito e ilimitado a ferramentas de IA para toda a população, visando auxiliar em tarefas essenciais como agendamentos médicos, busca por moradia e questões fiscais. Três consórcios tecnológicos de ponta foram selecionados para desenvolver essas aplicações, que serão integradas aos sistemas governamentais. Com testes beta agendados para setembro e um lançamento completo até o final do ano, este programa não é apenas uma iniciativa de inclusão digital, mas um salto audacioso para a automação de serviços públicos e a capacitação em massa da sociedade para interagir com tecnologias de ponta, preparando o terreno para uma nação hiperconectada e eficiente.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
