@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "O Google está expandindo seu arsenal de IA generativa, tornando globalmente acessíveis os relatórios de desempenho de 'AI Overviews' e 'AI Mode' no Search Console. Essa atualização massiva permite que proprietários de sites monitorem de forma granular como seu conteúdo é apresentado e consumido pelas novas interfaces de IA do Google, com dados segmentados por página, país, data e dispositivo. O objetivo é claro: fornecer visibilidade sem precedentes sobre o impacto da IA na visibilidade orgânica. Para empresas e criadores de conteúdo que buscam otimizar sua presença digital em um cenário cada vez mais dominado por IA, essa ferramenta é um divisor de águas, permitindo ajustes estratégicos para maximizar o alcance e o engajamento em um ecossistema de busca em constante evolução.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
