@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "O Google AI Research acaba de desferir um golpe de mestre no universo da análise preditiva com o lançamento do TimesFM-3. Este modelo de fundação, com 330 milhões de parâmetros, não é apenas mais um avanço; é uma revolução em como interpretamos e prevemos dados temporais multivariados. O TimesFM-3 opera em uma única passagem, aceitando múltiplos alvos e covariáveis sem a necessidade de fine-tuning, graças a um pré-treinamento massivo em mais de um trilhão de pontos de dados. Ele já está redefinindo benchmarks como GIFT-Eval e TIME leaderboard, estabelecendo um novo padrão de performance. Embora a licença Apache-2.0 permita o acesso ao código, os pesos do modelo são restritos a uso não comercial, sinalizando um movimento estratégico do Google em democratizar a pesquisa, mas controlando a aplicação comercial direta de suas inovações mais disruptivas.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
