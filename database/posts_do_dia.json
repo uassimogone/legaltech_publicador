@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "O Google lança o Gemini 3.8 Flash e o Gemini 3.8 Flash Cyber, marcando um novo capítulo na corrida por modelos de IA eficientes e seguros. O Gemini 3.8 Flash se destaca como o modelo Flash mais inteligente da Google até agora, otimizado para tarefas de engenharia de software de longa duração e para impulsionar agentes autônomos. Paralelamente, o Gemini 3.8 Flash Cyber eleva a segurança cibernética com foco em detecção de vulnerabilidades e correção automática de código. Em um mercado cada vez mais competitivo, estas inovações do Google posicionam a IA como uma ferramenta acessível e robusta para a próxima geração de desenvolvimento e segurança.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
