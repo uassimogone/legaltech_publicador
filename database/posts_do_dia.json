@@ -3,20 +3,20 @@
     {
       "id": 1,
       "imagem": "slide_01.png",
-      "legenda": "O Google AI Research acaba de desferir um golpe de mestre no universo da análise preditiva com o lançamento do TimesFM-3. Este modelo de fundação, com 330 milhões de parâmetros, não é apenas mais um avanço; é uma revolução em como interpretamos e prevemos dados temporais multivariados. O TimesFM-3 opera em uma única passagem, aceitando múltiplos alvos e covariáveis sem a necessidade de fine-tuning, graças a um pré-treinamento massivo em mais de um trilhão de pontos de dados. Ele já está redefinindo benchmarks como GIFT-Eval e TIME leaderboard, estabelecendo um novo padrão de performance. Embora a licença Apache-2.0 permita o acesso ao código, os pesos do modelo são restritos a uso não comercial, sinalizando um movimento estratégico do Google em democratizar a pesquisa, mas controlando a aplicação comercial direta de suas inovações mais disruptivas.",
-      "publicado": true
+      "legenda": "A NVIDIA redefine o realismo visual com o DLSS 5, impulsionado pelo revolucionário 3D-Guided Neural Rendering. Esta IA de ponta eleva os gráficos em tempo real a um patamar cinematográfico, aprimorando detalhes como pele, cabelo e iluminação com uma precisão sem precedentes. Previsto para estrear em 'NBA 2K27', o DLSS 5 promete transformar a experiência visual em jogos e aplicações, tornando-se um divisor de águas para GPUs e notebooks GeForce RTX Série 50 e o ecossistema GeForce NOW. A era do fotorrealismo em tempo real, orquestrada por IA, chegou para dominar o cenário tecnológico.",
+      "publicado": false
     },
     {
       "id": 2,
       "imagem": "slide_02.png",
-      "legenda": "O Google está expandindo seu arsenal de IA generativa, tornando globalmente acessíveis os relatórios de desempenho de 'AI Overviews' e 'AI Mode' no Search Console. Essa atualização massiva permite que proprietários de sites monitorem de forma granular como seu conteúdo é apresentado e consumido pelas novas interfaces de IA do Google, com dados segmentados por página, país, data e dispositivo. O objetivo é claro: fornecer visibilidade sem precedentes sobre o impacto da IA na visibilidade orgânica. Para empresas e criadores de conteúdo que buscam otimizar sua presença digital em um cenário cada vez mais dominado por IA, essa ferramenta é um divisor de águas, permitindo ajustes estratégicos para maximizar o alcance e o engajamento em um ecossistema de busca em constante evolução.",
-      "publicado": true
+      "legenda": "A Salesforce acelera a revolução da automação com o Agentforce Help Agent, um agente de serviço autônomo que está redefinindo o atendimento ao cliente. Capaz de operar em voz, web e mensagens, esta solução já demonstrou uma taxa de resolução autônoma de 70% em 4,3 milhões de atendimentos reais. Com implantação guiada em minutos, o Agentforce Help Agent não é apenas uma ferramenta, mas um salto quântico na eficiência operacional e na experiência do usuário. Prepare-se para um futuro onde a IA resolve, escala e otimiza em tempo real.",
+      "publicado": false
     },
     {
       "id": 3,
       "imagem": "slide_03.png",
-      "legenda": "A Coreia do Sul está traçando um futuro onde a IA generativa é um direito cidadão. O programa 'Inteligência Artificial para Todos' promete acesso gratuito e ilimitado a ferramentas de IA para toda a população, visando auxiliar em tarefas essenciais como agendamentos médicos, busca por moradia e questões fiscais. Três consórcios tecnológicos de ponta foram selecionados para desenvolver essas aplicações, que serão integradas aos sistemas governamentais. Com testes beta agendados para setembro e um lançamento completo até o final do ano, este programa não é apenas uma iniciativa de inclusão digital, mas um salto audacioso para a automação de serviços públicos e a capacitação em massa da sociedade para interagir com tecnologias de ponta, preparando o terreno para uma nação hiperconectada e eficiente.",
-      "publicado": true
+      "legenda": "O Google lança o Gemini 3.8 Flash e o Gemini 3.8 Flash Cyber, marcando um novo capítulo na corrida por modelos de IA eficientes e seguros. O Gemini 3.8 Flash se destaca como o modelo Flash mais inteligente da Google até agora, otimizado para tarefas de engenharia de software de longa duração e para impulsionar agentes autônomos. Paralelamente, o Gemini 3.8 Flash Cyber eleva a segurança cibernética com foco em detecção de vulnerabilidades e correção automática de código. Em um mercado cada vez mais competitivo, estas inovações do Google posicionam a IA como uma ferramenta acessível e robusta para a próxima geração de desenvolvimento e segurança.",
+      "publicado": false
     }
   ]
 }
