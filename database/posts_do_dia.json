@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A NVIDIA redefine o realismo visual com o DLSS 5, impulsionado pelo revolucionário 3D-Guided Neural Rendering. Esta IA de ponta eleva os gráficos em tempo real a um patamar cinematográfico, aprimorando detalhes como pele, cabelo e iluminação com uma precisão sem precedentes. Previsto para estrear em 'NBA 2K27', o DLSS 5 promete transformar a experiência visual em jogos e aplicações, tornando-se um divisor de águas para GPUs e notebooks GeForce RTX Série 50 e o ecossistema GeForce NOW. A era do fotorrealismo em tempo real, orquestrada por IA, chegou para dominar o cenário tecnológico.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
