@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "A Salesforce acelera a revolução da automação com o Agentforce Help Agent, um agente de serviço autônomo que está redefinindo o atendimento ao cliente. Capaz de operar em voz, web e mensagens, esta solução já demonstrou uma taxa de resolução autônoma de 70% em 4,3 milhões de atendimentos reais. Com implantação guiada em minutos, o Agentforce Help Agent não é apenas uma ferramenta, mas um salto quântico na eficiência operacional e na experiência do usuário. Prepare-se para um futuro onde a IA resolve, escala e otimiza em tempo real.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
