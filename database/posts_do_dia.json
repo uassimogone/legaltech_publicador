@@ -3,20 +3,20 @@
     {
       "id": 1,
       "imagem": "slide_01.png",
-      "legenda": "A NVIDIA redefine o realismo visual com o DLSS 5, impulsionado pelo revolucionário 3D-Guided Neural Rendering. Esta IA de ponta eleva os gráficos em tempo real a um patamar cinematográfico, aprimorando detalhes como pele, cabelo e iluminação com uma precisão sem precedentes. Previsto para estrear em 'NBA 2K27', o DLSS 5 promete transformar a experiência visual em jogos e aplicações, tornando-se um divisor de águas para GPUs e notebooks GeForce RTX Série 50 e o ecossistema GeForce NOW. A era do fotorrealismo em tempo real, orquestrada por IA, chegou para dominar o cenário tecnológico.",
-      "publicado": true
+      "legenda": "A OpenAI redefiniu o paradigma da IA com o lançamento do GPT-6 Astra, um modelo que a empresa declara ser o marco inicial da Inteligência Artificial Geral (AGI). Este salto geracional em capacidade não se limita a tarefas cognitivas avançadas, mas também demonstra um domínio sem precedentes em engenharia de software, ciência e, crucialmente, em cibersegurança. O Astra atingiu o limiar 'Crítico' de proteção em cibersegurança do Preparedness Framework da OpenAI, sinalizando um novo padrão de robustez e segurança em sistemas de IA. A implicação é clara: estamos entrando em uma nova fase onde a IA não apenas pensa, mas protege e inova em um nível que antes era inimaginável, forçando todos os setores a repensar suas estratégias de segurança e desenvolvimento.",
+      "publicado": false
     },
     {
       "id": 2,
       "imagem": "slide_02.png",
-      "legenda": "A Salesforce acelera a revolução da automação com o Agentforce Help Agent, um agente de serviço autônomo que está redefinindo o atendimento ao cliente. Capaz de operar em voz, web e mensagens, esta solução já demonstrou uma taxa de resolução autônoma de 70% em 4,3 milhões de atendimentos reais. Com implantação guiada em minutos, o Agentforce Help Agent não é apenas uma ferramenta, mas um salto quântico na eficiência operacional e na experiência do usuário. Prepare-se para um futuro onde a IA resolve, escala e otimiza em tempo real.",
-      "publicado": true
+      "legenda": "O Google está democratizando a criação de conteúdo visual com o lançamento do Google Pics, um editor de imagens com IA integrado diretamente ao Google Docs e Slides. Essa inovação elimina barreiras, permitindo que usuários gerem e editem imagens de forma intuitiva, sem sair do seu ambiente de trabalho. A promessa é de um fluxo de trabalho criativo mais ágil e eficiente, com a IA atuando como um co-piloto visual. A expansão para o Google Drive em breve solidifica a visão do Google de uma suíte de produtividade totalmente impulsionada por IA, onde a criatividade e a eficiência caminham juntas.",
+      "publicado": false
     },
     {
       "id": 3,
       "imagem": "slide_03.png",
-      "legenda": "O Google lança o Gemini 3.8 Flash e o Gemini 3.8 Flash Cyber, marcando um novo capítulo na corrida por modelos de IA eficientes e seguros. O Gemini 3.8 Flash se destaca como o modelo Flash mais inteligente da Google até agora, otimizado para tarefas de engenharia de software de longa duração e para impulsionar agentes autônomos. Paralelamente, o Gemini 3.8 Flash Cyber eleva a segurança cibernética com foco em detecção de vulnerabilidades e correção automática de código. Em um mercado cada vez mais competitivo, estas inovações do Google posicionam a IA como uma ferramenta acessível e robusta para a próxima geração de desenvolvimento e segurança.",
-      "publicado": true
+      "legenda": "O Google AI for Developers eleva o patamar de performance com a disponibilidade geral do Gemini 3.8 Flash. Este lançamento marca um avanço significativo na linha 'Flash' de modelos do Gemini, sendo agora o mais inteligente e eficiente já oferecido pela empresa. A otimização em velocidade e capacidade sugere um futuro onde modelos de IA mais poderosos e acessíveis impulsionam a inovação em uma escala sem precedentes. Para desenvolvedores e empresas, isso se traduz em novas possibilidades para criar aplicações mais robustas e inteligentes, otimizando processos e abrindo portas para soluções antes consideradas inviáveis.",
+      "publicado": false
     }
   ]
 }
