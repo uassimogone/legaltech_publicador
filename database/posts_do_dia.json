@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "O Google está democratizando a criação de conteúdo visual com o lançamento do Google Pics, um editor de imagens com IA integrado diretamente ao Google Docs e Slides. Essa inovação elimina barreiras, permitindo que usuários gerem e editem imagens de forma intuitiva, sem sair do seu ambiente de trabalho. A promessa é de um fluxo de trabalho criativo mais ágil e eficiente, com a IA atuando como um co-piloto visual. A expansão para o Google Drive em breve solidifica a visão do Google de uma suíte de produtividade totalmente impulsionada por IA, onde a criatividade e a eficiência caminham juntas.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
