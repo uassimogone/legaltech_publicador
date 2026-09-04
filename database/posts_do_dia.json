@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI redefiniu o paradigma da IA com o lançamento do GPT-6 Astra, um modelo que a empresa declara ser o marco inicial da Inteligência Artificial Geral (AGI). Este salto geracional em capacidade não se limita a tarefas cognitivas avançadas, mas também demonstra um domínio sem precedentes em engenharia de software, ciência e, crucialmente, em cibersegurança. O Astra atingiu o limiar 'Crítico' de proteção em cibersegurança do Preparedness Framework da OpenAI, sinalizando um novo padrão de robustez e segurança em sistemas de IA. A implicação é clara: estamos entrando em uma nova fase onde a IA não apenas pensa, mas protege e inova em um nível que antes era inimaginável, forçando todos os setores a repensar suas estratégias de segurança e desenvolvimento.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
