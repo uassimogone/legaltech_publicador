@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "O Google AI for Developers eleva o patamar de performance com a disponibilidade geral do Gemini 3.8 Flash. Este lançamento marca um avanço significativo na linha 'Flash' de modelos do Gemini, sendo agora o mais inteligente e eficiente já oferecido pela empresa. A otimização em velocidade e capacidade sugere um futuro onde modelos de IA mais poderosos e acessíveis impulsionam a inovação em uma escala sem precedentes. Para desenvolvedores e empresas, isso se traduz em novas possibilidades para criar aplicações mais robustas e inteligentes, otimizando processos e abrindo portas para soluções antes consideradas inviáveis.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
