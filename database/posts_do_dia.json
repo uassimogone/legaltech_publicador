@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI redefiniu o jogo com o lançamento do GPT-6 Astra, um modelo que não apenas avança em benchmarks de codificação e ciência, mas também atinge um nível 'crítico' em cibersegurança. Com desempenho superior em testes como FrontierMath Tier 4 (98%) e ARC-AGI-3 (99.9%), o Astra representa um salto quântico na capacidade de defesa digital. Embora a monitorabilidade da cadeia de pensamento apresente desafios, a robustez contra jailbreaks e o alinhamento aprimorado sinalizam uma nova era de proteção automatizada. Em um cenário de corrida armamentista digital, onde Anthropic e Google também elevam suas defesas, o Astra se posiciona como um divisor de águas, gradualmente disponível para usuários corporativos e via API, moldando o futuro da segurança cibernética.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
