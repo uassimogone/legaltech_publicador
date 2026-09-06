@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "A Nvidia, em parceria estratégica com a Microsoft, está redefinindo o hardware de computação pessoal com o lançamento dos PCs equipados com o superchip de IA RTX Spark. Previstos para outubro, os dispositivos da Lenovo e Acer prometem turbinar o ecossistema Windows com capacidades de IA de ponta, desafiando diretamente gigantes como Apple, Intel e AMD. Embora o investimento inicial possa ser considerável, a iniciativa da Nvidia marca uma incursão agressiva no segmento de laptops, visando consolidar sua liderança em processamento de IA. Para o mercado corporativo e legal, isso significa um acesso sem precedentes a poder computacional local para tarefas intensivas em IA, abrindo portas para análises mais rápidas, desenvolvimento de soluções customizadas e uma eficiência operacional impulsionada pela tecnologia.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
