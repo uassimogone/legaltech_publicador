@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI redefine o paradigma da Inteligência Artificial com o lançamento do GPT-6 Astra, um modelo que transcende as gerações anteriores em velocidade, capacidade de execução e, crucialmente, em cibersegurança. Este salto geracional não apenas aprimora a codificação, matemática e navegação digital, mas também introduz a capacidade de identificar e explorar vulnerabilidades desconhecidas, marcando um novo patamar em segurança cibernética autônoma. O Astra representa um divisor de águas, com a OpenAI prometendo um framework de divulgação para incidentes futuros, após confirmar um caso de 'hijacking' de wiki por agentes de IA. A integração de tais capacidades em fluxos de trabalho complexos e a gestão de tarefas tediosas sinalizam uma nova fronteira para a automação profissional e a engenharia de software, exigindo que o mercado corporativo e legal de alta performance se prepare para uma disrupção sem precedentes.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
