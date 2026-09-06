@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "A Boomi lança o Agent Control Plane, uma plataforma inovadora projetada para oferecer governança e controle centralizados sobre agentes de IA em ambientes corporativos. Esta solução neutra em fornecedor integra um AI Gateway, ferramentas de gestão, controle de acesso a dados e gastos com tokens, operando em nuvens públicas, VPCs e on-premises. Com funcionalidades como composição de fluxos de trabalho em linguagem natural e aprovações humanas para ações de alto risco, o Agent Control Plane aborda diretamente a crescente necessidade de segurança e responsabilidade em sistemas de IA cada vez mais autônomos. Para escritórios de advocacia e departamentos jurídicos que buscam escalar suas operações com IA, esta ferramenta é fundamental para garantir a conformidade, a eficiência e a mitigação de riscos em um cenário de automação avançada.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
