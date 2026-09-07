@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "A proliferação de agentes de IA autônomos, capazes de executar tarefas complexas e interagir com sistemas críticos, acendeu um alerta global. O NIST, em colaboração com órgãos internacionais, está na vanguarda da criação de normas de segurança, identidade e autorização específicas para esses sistemas. O objetivo é mitigar riscos, prevenir incidentes como a transformação de sites em fóruns clandestinos e combater o 'AI Sprawl' – a proliferação descontrolada de sistemas de IA.\n\nA engenharia de segurança para agentes autônomos envolve o desenvolvimento de frameworks como o NIST, ISO 42001 e OWASP Agentic Top 10. Estas estruturas visam garantir a transparência, a auditabilidade e o controle sobre as ações dos agentes, especialmente em domínios sensíveis como programação e cibersegurança. A capacidade de auditar a 'opaque recurrence' de modelos como o GPT-6 Astra é fundamental para a confiança e a segurança.\n\nPara o mercado corporativo e jurídico de alta performance, a governança de agentes de IA não é uma opção, mas uma necessidade estratégica. Implementar frameworks de segurança e auditoria robustos é crucial para garantir a conformidade, proteger ativos e manter a integridade das operações. A adoção de uma abordagem proativa à governança de IA é essencial para liderar em um cenário de inovação acelerada e riscos crescentes.\n\nFonte: https://www.innocor.tech/blog/agentes-de-ia-autonomos-2026-governanca-e-auditoria/\n#LegalTech #IAJurídica #lawtech #artificiallawyer #NIST #GovernançaIA",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
