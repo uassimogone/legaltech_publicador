@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "O Google I/O 2026 não foi apenas um evento, foi um portal para o futuro da interação digital. O lançamento do Gemini Omni, um modelo capaz de gerar saídas em qualquer modalidade (vídeo, imagem, texto) a partir de qualquer entrada, redefine a compreensão e a criação de conteúdo pela IA. Combinado com o Antigravity 2.0, a plataforma que centraliza o desenvolvimento e gestão de grupos de agentes de IA autônomos, o Google está pavimentando o caminho para workflows totalmente automatizados e inteligentes. O Gemini 3.5 Flash também chega para otimizar custos e performance, sinalizando que a era da automação extrema e da inteligência distribuída está aqui para ficar. Profissionais que buscam escala e disrupção precisam dominar essa nova arquitetura.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
