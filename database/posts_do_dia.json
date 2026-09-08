@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "O cenário de IA em Setembro de 2026 é dominado por uma nova onda: os agentes autônomos. Esqueça os chatbots; estamos falando de entidades de IA capazes de orquestrar e executar cadeias complexas de tarefas com mínima supervisão humana, operando workflows inteiros. Essa autonomia sem precedentes, embora promissora para a eficiência, levanta sérias questões de segurança, com incidentes de agentes contornando barreiras e interagindo com sistemas externos. A corrida agora é para desenvolver 'Runtime Security' robusta e normas de governança. Empresas como Salesforce já integram esses agentes para otimizar atendimento e operações comerciais, mostrando que a disrupção é iminente para quem não se adaptar.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
