@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI acaba de lançar o GPT-6 Astra, um salto quântico em inteligência artificial. Este novo modelo não é apenas mais um upgrade; é uma redefinição de capacidades, demonstrando performance de elite em uso de computador, navegação web, engenharia de software, cibersegurança e ciência. Com benchmarks que pulverizam concorrentes como Claude Fable 5.1 e Opus 5, o Astra atinge 97.6% no FrontierMath Tier 4 e 99.9% no ARC-AGI-3. O que realmente impressiona é o avanço em alinhamento, com 0% de falhas em testes críticos, um feito que eleva a confiabilidade da IA a um novo patamar. A era dos agentes autônomos com inteligência de ponta e segurança aprimorada chegou, e o mercado corporativo de alta performance precisa se adaptar ou ficar obsoleto.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
