@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "O cenário da cibersegurança está em ponto de ebulição com o alerta emitido pelo Google sobre a escalada de ciberataques orquestrados por Inteligência Artificial. Grupos cibernéticos globais, especialmente aqueles com base na Rússia, China, Irã e Coreia do Norte, estão alavancando IA para automatizar a aquisição de credenciais, gerar código malicioso e executar espionagem industrial com uma eficiência assustadora. A IA atua como um multiplicador de força, permitindo que operações complexas sejam desdobradas em questão de horas, não dias ou semanas. O relatório 'AI Threat Tracker' do Google expõe uma tendência preocupante de ataques direcionados a modelos e sistemas de IA, com um foco particular na cadeia de suprimentos de software. Essa evolução exige uma reavaliação imediata das nossas defesas digitais, pois a velocidade e a autonomia dos atacantes de IA estão redefinindo o campo de batalha cibernético.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
