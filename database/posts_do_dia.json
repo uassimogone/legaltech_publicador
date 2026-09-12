@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI redefine o jogo com o lançamento do GPT-6 Astra, seu modelo mais avançado até o momento. Projetado com capacidades de ponta em uso de computador, codificação, cibersegurança e ciência, o Astra promete revolucionar a forma como interagimos com a inteligência artificial. Sua integração no ChatGPT Work, Codex e via API já está disponível, mas o destaque é sua performance inédita no Framework de Preparação da OpenAI, atingindo um limiar crítico em cibersegurança com proteções robustas contra uso indevido. Este avanço não apenas eleva o padrão de inteligência artificial, mas também estabelece um novo paradigma em segurança digital, preparando o terreno para um futuro onde a IA é sinônimo de proteção e eficiência.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
