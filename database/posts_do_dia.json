@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "A Volvo está impulsionando a eficiência no transporte rodoviário com a introdução do sistema I-See, uma inovação que integra GPS, conectividade e inteligência artificial para otimizar o consumo de combustível em até 3%. Apresentado na Lat.Bus 2026, o I-See analisa a topografia da estrada em tempo real, ajustando inteligentemente a gestão do motor e da transmissão. Disponível para os chassis B380R, B420R, B460R e B510R, esta tecnologia representa um salto significativo na sustentabilidade e na performance operacional, demonstrando como a IA pode gerar valor tangível em setores tradicionais, otimizando recursos e reduzindo custos.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
