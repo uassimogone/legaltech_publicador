@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "A OpenAI eleva a interação por voz a um novo patamar com o lançamento do GPT-Live-1 na sua API. Esta inovação permite conversas full-duplex em tempo real, equipada com 12 novas vozes, transcrições nativas e detecção de turnos aprimorada. A integração com o Codex potencializa ainda mais a capacidade de criar aplicações de voz incrivelmente naturais e responsivas. Para desenvolvedores e empresas que buscam experiências de usuário imersivas e eficientes, o GPT-Live-1 é o próximo salto evolutivo na comunicação mediada por IA, prometendo transformar desde assistentes virtuais até plataformas de colaboração.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
