@@ -3,19 +3,19 @@
     {
       "id": 1,
       "imagem": "slide_01.png",
-      "legenda": "A OpenAI redefine o jogo com o lançamento do GPT-6 Astra, seu modelo mais avançado até o momento. Projetado com capacidades de ponta em uso de computador, codificação, cibersegurança e ciência, o Astra promete revolucionar a forma como interagimos com a inteligência artificial. Sua integração no ChatGPT Work, Codex e via API já está disponível, mas o destaque é sua performance inédita no Framework de Preparação da OpenAI, atingindo um limiar crítico em cibersegurança com proteções robustas contra uso indevido. Este avanço não apenas eleva o padrão de inteligência artificial, mas também estabelece um novo paradigma em segurança digital, preparando o terreno para um futuro onde a IA é sinônimo de proteção e eficiência.",
-      "publicado": true
+      "legenda": "A Microsoft está redefinindo os limites do seu assistente Copilot com a integração dos modelos Grok da xAI. Esta fusão promete expandir o leque de capacidades do Copilot em aplicações como Word, Excel e PowerPoint, abrindo portas para novas formas de interação e produtividade. No entanto, a adoção do Grok, conhecido por suas controvérsias, levanta um debate ético crucial sobre a geração de conteúdo e a responsabilidade das plataformas. A fase piloto, restrita a certas regiões, sinaliza uma abordagem cautelosa diante do poder bruto da IA, forçando o mercado a ponderar a velocidade da inovação contra a segurança e a ética.",
+      "publicado": false
     },
     {
       "id": 2,
       "imagem": "slide_02.png",
-      "legenda": "A Volvo está impulsionando a eficiência no transporte rodoviário com a introdução do sistema I-See, uma inovação que integra GPS, conectividade e inteligência artificial para otimizar o consumo de combustível em até 3%. Apresentado na Lat.Bus 2026, o I-See analisa a topografia da estrada em tempo real, ajustando inteligentemente a gestão do motor e da transmissão. Disponível para os chassis B380R, B420R, B460R e B510R, esta tecnologia representa um salto significativo na sustentabilidade e na performance operacional, demonstrando como a IA pode gerar valor tangível em setores tradicionais, otimizando recursos e reduzindo custos.",
-      "publicado": true
+      "legenda": "A OpenAI eleva a interação por voz a um novo patamar com o lançamento do GPT-Live-1 na sua API. Esta inovação permite conversas full-duplex em tempo real, equipada com 12 novas vozes, transcrições nativas e detecção de turnos aprimorada. A integração com o Codex potencializa ainda mais a capacidade de criar aplicações de voz incrivelmente naturais e responsivas. Para desenvolvedores e empresas que buscam experiências de usuário imersivas e eficientes, o GPT-Live-1 é o próximo salto evolutivo na comunicação mediada por IA, prometendo transformar desde assistentes virtuais até plataformas de colaboração.",
+      "publicado": false
     },
     {
       "id": 3,
       "imagem": "slide_03.png",
-      "legenda": "O ecossistema de legaltech está prestes a ser impulsionado por uma nova onda de investimento estratégico. Um grupo visionário de diretores jurídicos (general counsels), em colaboração com o renomado escritório Wilson Sonsini Goodrich & Rosati, lançou o GCVC. Este fundo de venture capital é inteiramente dedicado a nutrir e escalar startups inovadoras no setor de legaltech. Com mais de 50 GCs já como investidores e aportes iniciais em empresas promissoras como Sandstone (gestão de relacionamento para departamentos jurídicos) e Stilta (IA para trabalho de patentes), o GCVC sinaliza uma era de disrupção e automação sem precedentes, onde a inteligência artificial moldará a próxima geração de serviços jurídicos de alta performance.",
+      "legenda": "Em um alerta uníssono que ecoa pelo ecossistema de IA, Sam Altman (OpenAI) e Dario Amodei (Anthropic) sinalizam uma mudança de paradigma: a segurança agora precede a velocidade. A decisão da OpenAI de adiar seu IPO em 2026 e as preocupações de Amodei sobre um 'enxame' de IA dominando a internet e o potencial de autoaperfeiçoamento recursivo que pode levar à extinção humana, pintam um quadro de cautela. Este abrandamento estratégico no desenvolvimento, impulsionado por riscos existenciais, força o mercado corporativo e legal a reavaliar suas apostas em IA, priorizando governança e controle em vez de pura expansão.",
       "publicado": false
     }
   ]
