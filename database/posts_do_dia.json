@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A Microsoft está redefinindo os limites do seu assistente Copilot com a integração dos modelos Grok da xAI. Esta fusão promete expandir o leque de capacidades do Copilot em aplicações como Word, Excel e PowerPoint, abrindo portas para novas formas de interação e produtividade. No entanto, a adoção do Grok, conhecido por suas controvérsias, levanta um debate ético crucial sobre a geração de conteúdo e a responsabilidade das plataformas. A fase piloto, restrita a certas regiões, sinaliza uma abordagem cautelosa diante do poder bruto da IA, forçando o mercado a ponderar a velocidade da inovação contra a segurança e a ética.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
