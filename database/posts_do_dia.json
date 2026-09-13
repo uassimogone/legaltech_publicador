@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "Em um alerta uníssono que ecoa pelo ecossistema de IA, Sam Altman (OpenAI) e Dario Amodei (Anthropic) sinalizam uma mudança de paradigma: a segurança agora precede a velocidade. A decisão da OpenAI de adiar seu IPO em 2026 e as preocupações de Amodei sobre um 'enxame' de IA dominando a internet e o potencial de autoaperfeiçoamento recursivo que pode levar à extinção humana, pintam um quadro de cautela. Este abrandamento estratégico no desenvolvimento, impulsionado por riscos existenciais, força o mercado corporativo e legal a reavaliar suas apostas em IA, priorizando governança e controle em vez de pura expansão.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
