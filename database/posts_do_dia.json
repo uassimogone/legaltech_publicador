@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI acaba de redefinir o jogo com o lançamento do GPT-6 Astra em 3 de setembro de 2026. Este modelo não é apenas uma atualização; é um salto geracional projetado para revolucionar a cibersegurança, a engenharia de software e a ciência, com potencial para ser o prenúncio da Inteligência Artificial Geral (AGI). Mais rápido, mais focado e com uma compreensão de intenção sem precedentes, o Astra promete automatizar tarefas complexas e acelerar a inovação em escala global. O mercado corporativo e legal de alta performance precisa se preparar para uma nova era de eficiência e disrupção.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
