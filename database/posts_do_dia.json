@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "O ritmo da inovação em IA atinge novas velocidades com os anúncios da OpenAI. O lançamento do GPT-Live-1 promete redefinir a interação por voz, oferecendo experiências em tempo real, vozes personalizadas e integração telefônica diretamente via API. Mas o verdadeiro divisor de águas é o GPT-6 Astra, apresentado como o modelo mais inteligente da OpenAI até o momento. Com capacidades avançadas em computação, programação, cibersegurança e ciência, o Astra sinaliza um salto qualitativo na autonomia e na capacidade de resolução de problemas complexos. O anúncio do OpenAI DevDay 2026 em São Francisco corrobora a visão de um futuro onde a IA é a força motriz por trás de avanços disruptivos.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
