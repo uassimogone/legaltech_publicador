@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "O Google Labs está turbinando o Workspace com a liberação geral do agente de IA 'CC'. Essa ferramenta revolucionária automatiza a organização de eventos e o preenchimento de documentos diretamente no Gmail e Calendário, agora integrado ao Google Family Group para colaboração fluida. Com controle de autorização centralizado, o 'CC' promete otimizar fluxos de trabalho e elevar a produtividade a níveis inéditos. Prepare-se para uma experiência de colaboração sem atritos, onde a IA cuida das tarefas repetitivas, liberando seu tempo para o que realmente importa.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
