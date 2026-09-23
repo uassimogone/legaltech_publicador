@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "O cenário da Inteligência Artificial está em ebulição com a OpenAI e a Anthropic redefinindo o acesso a modelos de ponta. A OpenAI lança o GPT-6 Sol e Luna, com cortes de até 50% na API, enquanto a Anthropic apresenta o Claude Opus 5.5, 40% mais econômico. Essa estratégia agressiva visa democratizar o acesso a tecnologias de IA avançadas, impulsionando a adoção em larga escala e preparando o mercado para uma nova era de automação e eficiência computacional. A corrida pela acessibilidade está aberta, e quem não se adaptar corre o risco de ficar para trás na revolução da IA.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
