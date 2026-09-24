@@ -4,7 +4,7 @@
       "id": 1,
       "imagem": "slide_01.png",
       "legenda": "A OpenAI está redefinindo o acesso à inteligência artificial de ponta com o lançamento do GPT-6 Sol e GPT-6 Luna. Derivados do poderoso GPT-6 Astra, estes novos modelos foram meticulosamente otimizados para oferecer velocidade e economia sem precedentes, democratizando o acesso a funcionalidades de IA de ponta. Com uma redução de 50% nos custos da API em relação à geração anterior, o GPT-6 Luna e Sol atacam diretamente a \"curva custo-inteligência\", tornando a IA avançada uma realidade para um espectro mais amplo de aplicações e usuários. O Luna, em particular, está disponível gratuitamente para usuários do ChatGPT Free e Go, evidenciando um movimento estratégico para impulsionar a adoção em massa e preparar o terreno para a próxima onda de automação e inovação.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 2,
