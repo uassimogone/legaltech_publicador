@@ -10,7 +10,7 @@
       "id": 2,
       "imagem": "slide_02.png",
       "legenda": "O Google está reescrevendo as regras da inteligência artificial com o anúncio de que o Gemini 4 chegará \"muito antes\" do final de 2026, prometendo um salto qualitativo para competir no cenário de IA mais avançado. Paralelamente, a empresa lança o Gemini Omni Flash, o pioneiro da família Omni, que rompe barreiras ao gerar conteúdo em qualquer modalidade (vídeo, imagem, texto) a partir de qualquer entrada. Essa capacidade multimodal, combinada com a inteligência intrínseca do Gemini, representa um avanço monumental na compreensão e interação com o mundo digital. A rápida disponibilização do Omni Flash em plataformas como Gemini, Google Flow e YouTube Shorts sinaliza uma estratégia agressiva para integrar IA generativa avançada em todo o ecossistema Google.",
-      "publicado": false
+      "publicado": true
     },
     {
       "id": 3,
