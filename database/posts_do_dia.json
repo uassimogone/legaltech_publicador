@@ -3,19 +3,19 @@
     {
       "id": 1,
       "imagem": "slide_01.png",
-      "legenda": "O cenário da Inteligência Artificial está em ebulição com a OpenAI e a Anthropic redefinindo o acesso a modelos de ponta. A OpenAI lança o GPT-6 Sol e Luna, com cortes de até 50% na API, enquanto a Anthropic apresenta o Claude Opus 5.5, 40% mais econômico. Essa estratégia agressiva visa democratizar o acesso a tecnologias de IA avançadas, impulsionando a adoção em larga escala e preparando o mercado para uma nova era de automação e eficiência computacional. A corrida pela acessibilidade está aberta, e quem não se adaptar corre o risco de ficar para trás na revolução da IA.",
-      "publicado": true
+      "legenda": "A OpenAI está redefinindo o acesso à inteligência artificial de ponta com o lançamento do GPT-6 Sol e GPT-6 Luna. Derivados do poderoso GPT-6 Astra, estes novos modelos foram meticulosamente otimizados para oferecer velocidade e economia sem precedentes, democratizando o acesso a funcionalidades de IA de ponta. Com uma redução de 50% nos custos da API em relação à geração anterior, o GPT-6 Luna e Sol atacam diretamente a \"curva custo-inteligência\", tornando a IA avançada uma realidade para um espectro mais amplo de aplicações e usuários. O Luna, em particular, está disponível gratuitamente para usuários do ChatGPT Free e Go, evidenciando um movimento estratégico para impulsionar a adoção em massa e preparar o terreno para a próxima onda de automação e inovação.",
+      "publicado": false
     },
     {
       "id": 2,
       "imagem": "slide_02.png",
-      "legenda": "O Google Labs está turbinando o Workspace com a liberação geral do agente de IA 'CC'. Essa ferramenta revolucionária automatiza a organização de eventos e o preenchimento de documentos diretamente no Gmail e Calendário, agora integrado ao Google Family Group para colaboração fluida. Com controle de autorização centralizado, o 'CC' promete otimizar fluxos de trabalho e elevar a produtividade a níveis inéditos. Prepare-se para uma experiência de colaboração sem atritos, onde a IA cuida das tarefas repetitivas, liberando seu tempo para o que realmente importa.",
-      "publicado": true
+      "legenda": "O Google está reescrevendo as regras da inteligência artificial com o anúncio de que o Gemini 4 chegará \"muito antes\" do final de 2026, prometendo um salto qualitativo para competir no cenário de IA mais avançado. Paralelamente, a empresa lança o Gemini Omni Flash, o pioneiro da família Omni, que rompe barreiras ao gerar conteúdo em qualquer modalidade (vídeo, imagem, texto) a partir de qualquer entrada. Essa capacidade multimodal, combinada com a inteligência intrínseca do Gemini, representa um avanço monumental na compreensão e interação com o mundo digital. A rápida disponibilização do Omni Flash em plataformas como Gemini, Google Flow e YouTube Shorts sinaliza uma estratégia agressiva para integrar IA generativa avançada em todo o ecossistema Google.",
+      "publicado": false
     },
     {
       "id": 3,
       "imagem": "slide_03.png",
-      "legenda": "A proliferação de agentes autônomos de IA em ambientes corporativos acende um alerta vermelho: a governança. Enquanto 72% das organizações já os utilizam, apenas 23% possuem maturidade para gerenciá-los com segurança, segundo a JumpCloud. O risco de credenciais comprometidas e a falta de rastreabilidade abrem portas para o 'shadow AI'. A necessidade de supervisão, autorização clara e responsabilidade é imperativa. Ignorar a governança é convidar o caos digital e a obsolescência.",
+      "legenda": "A Meta está expandindo os limites da IA vestível e imersiva. Na conferência Connect 2026, a empresa revelou a integração de seu agente pessoal de IA, Muse, aos óculos de realidade virtual, transformando a experiência de imersão digital. Além disso, a Meta aborda diretamente as preocupações com privacidade com o lançamento do Ray-Ban Meta Audio. Estes novos óculos de IA, desprovidos de câmeras, priorizam a captura de áudio de alta qualidade, marcando uma mudança estratégica para equilibrar funcionalidade e segurança. Com um preço de US$349, o Ray-Ban Meta Audio sinaliza um futuro onde a IA se integra de forma mais discreta e segura ao nosso cotidiano.",
       "publicado": false
     }
   ]
