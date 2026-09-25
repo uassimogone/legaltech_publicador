@@ -16,7 +16,7 @@
       "id": 3,
       "imagem": "slide_03.png",
       "legenda": "O Google está na vanguarda da próxima onda de inovação em IA com o iminente lançamento do Gemini 4 e avanços substanciais em agentes autônomos. Essa nova iteração promete não apenas rivalizar com os líderes de mercado, mas também estabelecer novos benchmarks em velocidade de resposta e capacidade de execução contínua, como visto no Gemini Spark. A ascensão de agentes autônomos capazes de operar 24/7 e executar tarefas complexas de forma independente é um divisor de águas, impulsionando a necessidade de uma reestruturação estratégica para escritórios de advocacia e empresas que buscam otimizar fluxos operacionais e garantir escalabilidade.",
-      "publicado": false
+      "publicado": true
     }
   ]
 }
