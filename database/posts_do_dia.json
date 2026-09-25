@@ -3,19 +3,19 @@
     {
       "id": 1,
       "imagem": "slide_01.png",
-      "legenda": "A OpenAI está redefinindo o acesso à inteligência artificial de ponta com o lançamento do GPT-6 Sol e GPT-6 Luna. Derivados do poderoso GPT-6 Astra, estes novos modelos foram meticulosamente otimizados para oferecer velocidade e economia sem precedentes, democratizando o acesso a funcionalidades de IA de ponta. Com uma redução de 50% nos custos da API em relação à geração anterior, o GPT-6 Luna e Sol atacam diretamente a \"curva custo-inteligência\", tornando a IA avançada uma realidade para um espectro mais amplo de aplicações e usuários. O Luna, em particular, está disponível gratuitamente para usuários do ChatGPT Free e Go, evidenciando um movimento estratégico para impulsionar a adoção em massa e preparar o terreno para a próxima onda de automação e inovação.",
-      "publicado": true
+      "legenda": "A OpenAI redefiniu o cenário da IA com o lançamento do GPT-6 Sol e Luna, marcando um salto quântico em eficiência computacional e redução de custos operacionais. O Sol, otimizado para tarefas de codificação e execução de processos complexos, e o Luna, focado em otimizar fluxos de trabalho administrativos e de uso cotidiano, democratizam o acesso a modelos de linguagem de ponta. Essa revolução em performance e acessibilidade prepara o terreno para uma nova era de automação inteligente em larga escala, exigindo que empresas de alta performance se adaptem rapidamente para não ficarem obsoletas.",
+      "publicado": false
     },
     {
       "id": 2,
       "imagem": "slide_02.png",
-      "legenda": "O Google está reescrevendo as regras da inteligência artificial com o anúncio de que o Gemini 4 chegará \"muito antes\" do final de 2026, prometendo um salto qualitativo para competir no cenário de IA mais avançado. Paralelamente, a empresa lança o Gemini Omni Flash, o pioneiro da família Omni, que rompe barreiras ao gerar conteúdo em qualquer modalidade (vídeo, imagem, texto) a partir de qualquer entrada. Essa capacidade multimodal, combinada com a inteligência intrínseca do Gemini, representa um avanço monumental na compreensão e interação com o mundo digital. A rápida disponibilização do Omni Flash em plataformas como Gemini, Google Flow e YouTube Shorts sinaliza uma estratégia agressiva para integrar IA generativa avançada em todo o ecossistema Google.",
-      "publicado": true
+      "legenda": "A Meta está reescrevendo as regras da interação humano-IA com o lançamento do Muse, seu agente de IA pessoal que demonstra uma adoção meteórica nos EUA. Projetado como um assistente proativo e privado, o Muse se integra perfeitamente a e-mails, calendários e outros serviços do usuário, antecipando necessidades e sugerindo insights de forma inteligente. Essa capacidade de orquestração pessoal de tarefas e informações representa um avanço significativo na automação da vida digital, sinalizando a urgência para que profissionais e corporações incorporem estratégias de IA para manter a vanguarda competitiva.",
+      "publicado": false
     },
     {
       "id": 3,
       "imagem": "slide_03.png",
-      "legenda": "A Meta está expandindo os limites da IA vestível e imersiva. Na conferência Connect 2026, a empresa revelou a integração de seu agente pessoal de IA, Muse, aos óculos de realidade virtual, transformando a experiência de imersão digital. Além disso, a Meta aborda diretamente as preocupações com privacidade com o lançamento do Ray-Ban Meta Audio. Estes novos óculos de IA, desprovidos de câmeras, priorizam a captura de áudio de alta qualidade, marcando uma mudança estratégica para equilibrar funcionalidade e segurança. Com um preço de US$349, o Ray-Ban Meta Audio sinaliza um futuro onde a IA se integra de forma mais discreta e segura ao nosso cotidiano.",
+      "legenda": "O Google está na vanguarda da próxima onda de inovação em IA com o iminente lançamento do Gemini 4 e avanços substanciais em agentes autônomos. Essa nova iteração promete não apenas rivalizar com os líderes de mercado, mas também estabelecer novos benchmarks em velocidade de resposta e capacidade de execução contínua, como visto no Gemini Spark. A ascensão de agentes autônomos capazes de operar 24/7 e executar tarefas complexas de forma independente é um divisor de águas, impulsionando a necessidade de uma reestruturação estratégica para escritórios de advocacia e empresas que buscam otimizar fluxos operacionais e garantir escalabilidade.",
       "publicado": false
     }
   ]
